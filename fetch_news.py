@@ -7,12 +7,12 @@ with open(os.path.join(ROOT, "sources.json"), encoding="utf-8") as f:
     config = json.load(f)
 
 def clean(value):
-    return re.sub(r"\\s+", " ", value or "").strip()
-    AOBUTA_TERMS = [
-    "青春ブタ野郎", "青ブタ", "桜島麻衣", "梓川咲太",
-    "古賀朋絵", "双葉理央", "豊浜のどか", "梓川花楓",
-    "牧之原翔子", "広川卯月", "赤城郁実", "姫路紗良",
-    "美東美織", "ディアフレンド", "たゆたうクラゲ"
+    return re.sub(r"\\s+", " ", value or "").strip() 
+AOBUTA_TERMS = [
+"青春ブタ野郎", "青ブタ", "桜島麻衣", "梓川咲太",
+"古賀朋絵", "双葉理央", "豊浜のどか", "梓川花楓",
+"牧之原翔子", "広川卯月", "赤城郁実", "姫路紗良",
+"美東美織", "ディアフレンド", "たゆたうクラゲ"
 ]
 
 def is_aobuta_related(title):
