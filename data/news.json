@@ -1,31 +1,1057 @@
 {
-  "updated_at": "2026-10-11T02:52:51.924621+00:00",
-  "count": 0,
-  "items": [],
-  "errors": [
+  "updated_at": "2026-10-11T02:59:53.918061+00:00",
+  "count": 150,
+  "items": [
     {
-      "category": "公式・発表",
-      "error": "name 'AOBUTA_TERMS' is not defined"
+      "title": "10/16(金)～『青春ブタ野郎はディアフレンドの夢を見ない』岩浪美和音響監督監修 【青春ブタ野郎はディアフレンドの歌を夢で聴く LIVE ZOUND × RGB レーザー】上映実施！ - チネチッタ",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE45TWh6d0pCRXdXaDJfSDRaNFU0VmdGV1JoX3JpcV95YXFBM0gzUDB1TDBUX2RCNGdhdm93M2ptSDNCcEpKd3BRWg?oc=5",
+      "published": "2026-10-10T03:41:01+00:00",
+      "source": "チネチッタ",
+      "category": "劇場・上映・特典"
     },
     {
-      "category": "コラボ・イベント",
-      "error": "name 'AOBUTA_TERMS' is not defined"
+      "title": "10/18(日)『青春ブタ野郎はディアフレンドの夢を見ない』公開記念舞台挨拶ライブビューイング実施決定！ - チネチッタ",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBLQzAyajE3WW1ZQzFWVkVRN2RoRlJPam9qZHNGWnQtelYtTHVPRDc1cE5TLUZ3TGg3SXVyTzc1bENaZEw3Zk5haQ?oc=5",
+      "published": "2026-10-09T15:15:17+00:00",
+      "source": "チネチッタ",
+      "category": "コラボ・イベント"
     },
     {
-      "category": "劇場・上映・特典",
-      "error": "name 'AOBUTA_TERMS' is not defined"
+      "title": "「青春ブタ野郎はディアフレンドの夢を見ない」スタンプラリーキャンペーン開催 - １０９シネマズ",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5qcGsweFdyTnMwRldYNUY5Uy14Z01qWlR2MmQ1Y0JxcHJKd2FLS3FIR1lXUm5EeFFoSW55dWpKekZvUzNsUTMzNlctQ0o0Yjg?oc=5",
+      "published": "2026-10-09T10:50:34+00:00",
+      "source": "１０９シネマズ",
+      "category": "コラボ・イベント"
     },
     {
-      "category": "グッズ・予約",
-      "error": "name 'AOBUTA_TERMS' is not defined"
+      "title": "推し活ドリンク「ポッピンサイダー」からアニメ「青春ブタ野郎」シリーズコラボが新発売！ - MANTANWEB",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1yamRZX01LOTFaWW9GakEzdWI2ZzV6ZDZnTzhhXzMwaEttdTVnNUZDT2FLQnhZbmhZSzRydlJ1dFc5VXZFU292dXliVGVaZmxIY0t4b3pfODV3RlBBbmFzdWp6WGVMWm5neXhhNmd1N01wcGl4cUE?oc=5",
+      "published": "2026-10-09T10:50:09+00:00",
+      "source": "MANTANWEB",
+      "category": "コラボ・イベント"
     },
     {
-      "category": "入荷・再入荷",
-      "error": "name 'AOBUTA_TERMS' is not defined"
+      "title": "「青春ブタ野郎はプレシャスデイズの夢を見ない」 [画像ギャラリー 1/1] - ナタリー",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE80cno1b0tYYkh2c2xLY093dG9TR214YzBCNG9ST2xTVy05bEs3dERjZlM3T3A0Rk9GX3RnRmJFZHV3VC1VSjBoeXhsbjlDMzlRSlhfN2ROSV9rSndWS3d2eE9n?oc=5",
+      "published": "2026-10-09T09:12:44+00:00",
+      "source": "ナタリー",
+      "category": "グッズ・予約"
     },
     {
-      "category": "江の島・神奈川",
-      "error": "name 'AOBUTA_TERMS' is not defined"
+      "title": "『青春ブタ野郎はディアフレンドの夢を見ない』公開記念舞台挨拶ライブビューイング実施決定！ - １０９シネマズ",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9pUXJpMnJ3NlFWR3dxNEZxZnFnMVJmbnZjTnBjQW5yckJVdE5nTHNzQnozZEFJeXpRRDk1ZzVsS204ZEx3c3MxRE9wenhwQlU?oc=5",
+      "published": "2026-10-09T09:08:10+00:00",
+      "source": "１０９シネマズ",
+      "category": "劇場・上映・特典"
+    },
+    {
+      "title": "劇場アニメ『青春ブタ野郎はディアフレンドの夢を見ない』本編冒頭映像＆フィナーレビジュアル解禁！ 石川界人らが登壇する公開記念舞台挨拶の開催も決定 - eeo",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBqRWxSWk9reUxvb1lmWmhhdHRMV2VWZ1F2eFpDMU5jZDg1Y3doS0xYODZtMWV2ajdIWXlXckF4LUdRUlpJWXY4U3VHMU9wM2tNWlZFeA?oc=5",
+      "published": "2026-10-09T08:19:36+00:00",
+      "source": "eeo",
+      "category": "公式・発表・コラボ・イベント・劇場・上映・特典・グッズ・予約"
+    },
+    {
+      "title": "青春ブタ野郎シリーズの見る順番【2026年10月】放送順・時系列とシリーズ一覧 - キャラグー",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAyQ29GV1VpQUFwb2IxNnNkS3QzbW54TFJkOGJENExPWEw5Q3E2NFgyV3VIbG42ZllGb3NXcXY1di1nWnhtTUcxRGhqQUVFMVhn?oc=5",
+      "published": "2026-10-09T08:07:52+00:00",
+      "source": "キャラグー",
+      "category": "コラボ・イベント・グッズ・予約・入荷・再入荷"
+    },
+    {
+      "title": "劇場アニメ｢青春ブタ野郎はディアフレンドの夢を見ない｣クリアファイル ｜商品情報 - ファミリーマート",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1KWk1WT0ZTdTI5Z3hVbVdQSE9EOUNvd0Uza2JKMXBBNnlac3pMTS00SjUycTV2U2hyOFlUQ09STGVuTV9TelJBd2FXTTFNZ3owTV83cDNsLVd2XzNhN2FQaVNpYw?oc=5",
+      "published": "2026-10-09T08:03:50+00:00",
+      "source": "ファミリーマート",
+      "category": "劇場・上映・特典"
+    },
+    {
+      "title": "咲太らのほのぼのした日常描く「青春ブタ野郎はプレシャスデイズの夢を見ない」発売 (コミックナタリー) - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUTZ3RnlFYk9tUFROQTNVRVprRkZaNDQ2c3dpcmlrVXJUU29tek1iR2xfNzBZSjFnNFVhRlRvbkJwQlo4UVRYMUtNSGxjb2JteWNHOFlPUXpHYnhzbEhXM2JYWTdxZlpocmMxQUlmZFl3TEt1cHNnUGZ2MWdqZzZIcENkVE84enBVdlBNV2pn?oc=5",
+      "published": "2026-10-09T06:36:10+00:00",
+      "source": "Yahoo!ニュース",
+      "category": "グッズ・予約"
+    },
+    {
+      "title": "咲太らのほのぼのした日常描く「青春ブタ野郎はプレシャスデイズの夢を見ない」発売 - ナタリー",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE00RTgzNExxODB2OENXckNNRE40NzRhOFZ3Ri1jWGt6S0JyLVhJUHZkdHkzOTRSZUxIak9IXzZvUXZrWFJubVVJUFVWVFI?oc=5",
+      "published": "2026-10-09T06:35:00+00:00",
+      "source": "ナタリー",
+      "category": "公式・発表・グッズ・予約"
+    },
+    {
+      "title": "「青ブタ」完結記念、ヒロイン勢ぞろいのフィナーレビジュアル公開 「ディアフレンドの夢を見ない」本編冒頭映像も披露（映画.com） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE83d05yZzU2SGVxaS11VDVfQ3JWWWJWMGt6Z2V2dGJ5cEcxZGZTd0pLS1FoUC1rWlMwX19paGhzNTQ3RW1QN1JCUVg4aUx5aVhvNElyaldxbG9WS0dpb2hWZzlSZ0tBMDBYdTBEV09HUEZBYnF4ZWgtb3NNRjZyX1E?oc=5",
+      "published": "2026-10-09T05:30:00+00:00",
+      "source": "Yahoo!ニュース",
+      "category": "劇場・上映・特典"
+    },
+    {
+      "title": "「青ブタ」完結記念、ヒロイン勢ぞろいのフィナーレビジュアル公開 「ディアフレンドの夢を見ない」本編冒頭映像も披露 - 映画.com",
+      "url": "https://news.google.com/rss/articles/CBMiPEFVX3lxTFBMVU1qWm03Nzg2cVdldHBmWTczczNOcE9Eb0tmQUU0M2JEMzJsb2pxU3hVenlGWll0WTRVZw?oc=5",
+      "published": "2026-10-09T05:30:00+00:00",
+      "source": "映画.com",
+      "category": "劇場・上映・特典"
+    },
+    {
+      "title": "推し活ドリンク「ポッピンサイダー」からアニメ「青春ブタ野郎」シリーズコラボが新発売！ - ニコニコニュース",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9IalFaUjBld1M3VGgtVFJCdlU0cW9HM185R3Y2cWJMMmJMMTZaS0xPNDFTZEFtY2UzUkdLVms4MGNILTIxaXNnb093S3pPS3JOckFiQTFYVGNpWkQ3c09YVkQ1Mkg4VWZLZkJVaHR3?oc=5",
+      "published": "2026-10-09T04:30:30+00:00",
+      "source": "ニコニコニュース",
+      "category": "グッズ・予約・入荷・再入荷"
+    },
+    {
+      "title": "『青春ブタ野郎はディアフレンドの夢を見ない×横浜市』連携キャンペーン - www.chinatown.or.jp",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBEWHJNdGhzbWtROURzOEJNNU5mbUxweWhZeFNRZUNZX2t5aE10dmtmYUZiM2ViaGNmOFpqeHRoVjMxQjlXZjJXdVNES0ZmS1NOR0xmMnQ4WmM4Zw?oc=5",
+      "published": "2026-10-09T03:52:17+00:00",
+      "source": "www.chinatown.or.jp",
+      "category": "江の島・神奈川"
+    },
+    {
+      "title": "推し活ドリンク「ポッピンサイダー」からアニメ「青春ブタ野郎」シリーズコラボが新発売！ - Excite エキサイト",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBDM2UtOWNNTTdiUGRVWjdFUUpDZ2s1SW1VRGRkVlkydHFrVXU5TUlJZXB3R2R0Qk1IM2VQUHdXdGNLaHEyUTV1N1FGbE4tMWdwNTlycldxdEdraVNrUkYwUlMyYmNYYngtZllMd1BqYWpmdkRH?oc=5",
+      "published": "2026-10-09T03:15:00+00:00",
+      "source": "Excite エキサイト",
+      "category": "入荷・再入荷"
+    },
+    {
+      "title": "推し活ドリンク「ポッピンサイダー」からアニメ「青春ブタ野郎」シリーズコラボが新発売！ - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE51Vm9WZzJPaVJ2QUhQSDJ2TFh6ck92VTlUQmljbTh1aTdaRlZsTDJyMWJ3VWZWNzRXVFM2Q1JfYW1yUi0zS0h3YWl5cjhiYm9abzlmVmJKZHFrQ3lnQ0JJN1pUM1VvSjRtWVE?oc=5",
+      "published": "2026-10-09T01:00:01+00:00",
+      "source": "PR TIMES",
+      "category": "コラボ・イベント・グッズ・予約・入荷・再入荷"
+    },
+    {
+      "title": "推し活ドリンク「ポッピンサイダー」からアニメ「青春ブタ野郎」シリーズコラボが新発売！ - 産経ニュース",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE15TzhmODZCZ01jMFdmdDJLWTF2UFphLTlHaWtJQ00temxDemNwMkItdkpXTEpUR1VySDhUNHk0ZlZ6NTdXT1R0ekNVdV95VTJyNzVadUdBUDh4UW14aU1xYk1hdWpPOU00THZod2JlODhXVlo3RVM2MlR4bw?oc=5",
+      "published": "2026-10-09T01:00:00+00:00",
+      "source": "産経ニュース",
+      "category": "コラボ・イベント"
+    },
+    {
+      "title": "「青春ブタ野郎はバニーガール先輩の夢を見ない」の配信はどこ？TVerの無料配信と見放題サブスクを比較 - アニメ！アニメ！",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1DZEp6X3MxREF3eDF0dmdJTjgxWmFHRmtUbWpXckhVYlN0ZzJTdmR4VzVDVVhBQlRscENkaVdWbWJ0bFN4RkZWQkZkNmV1S1k4VGx0R3RhXzMxVzlYYWJJRjFR?oc=5",
+      "published": "2026-10-09T00:09:02+00:00",
+      "source": "アニメ！アニメ！",
+      "category": "公式・発表・劇場・上映・特典"
+    },
+    {
+      "title": "「青春ブタ野郎はバニーガール先輩の夢を見ない」の配信はどこ？TVerの無料配信と見放題サブスクを比較 1枚目の写真・画像 - アニメ！アニメ！",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBoQVlWRmpOR3Z3VVZFcWtfSW1IWmJYSjNKRktOWjJHdDFKUzE2cWZqV2RCWU5BQ09IZDl3MnVuM28yUmpwYm13TUt4TGVJMTlxX2otTEp6eVJrWUZFaFFOeUdlSDJxd2FURHZNV1JFdVc4TWs?oc=5",
+      "published": "2026-10-09T00:09:02+00:00",
+      "source": "アニメ！アニメ！",
+      "category": "劇場・上映・特典"
+    },
+    {
+      "title": "「青春ブタ野郎はランドセルガールの夢を見ない」の配信はどこ？劇場版を見放題で見れるサブスクを比較 9枚目の写真・画像 - アニメ！アニメ！",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBzZURYcFdPRjRaTlFmbXllVXVjdnlhRWpkVkdZSUt2dkZURWNRZHF0V1pvcVBPdXFoNkR5dGNaM3l5UllyYlVpTEhDTkpNU0hrZXZ1LXpacDJBM0NmejI5NVhFQUVkandVTVg3UVRtQkQ0YUU?oc=5",
+      "published": "2026-10-09T00:07:18+00:00",
+      "source": "アニメ！アニメ！",
+      "category": "公式・発表・劇場・上映・特典"
+    },
+    {
+      "title": "「青春ブタ野郎はランドセルガールの夢を見ない」の配信はどこ？劇場版を見放題で見れるサブスクを比較 - アニメ！アニメ！",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9qalFBb3hwTU9FWHdJSUpWZDBvOTFxTFRVR3NCS1VBcGljSFJqQnBTZWNKaklOWVhiaExJeE9EdWUwNnVmTHJkWU1QTjllUVVVV0dHQ1Jva2VlZmU3NERRVUxn?oc=5",
+      "published": "2026-10-09T00:07:18+00:00",
+      "source": "アニメ！アニメ！",
+      "category": "公式・発表・劇場・上映・特典"
+    },
+    {
+      "title": "「青春ブタ野郎はサンタクロースの夢を見ない」の配信はどこ？TVアニメ2期を見放題で見れるサブスク - アニメ！アニメ！",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5qRFExeFc3dVYwRm04b2tVNkpPTElsVGxaOVJPWnJCZTR5UXZFRF9zZEtXU20yMHdPVUFJNUVJNGo2bTZZRlZWVWZWMjdrbmtzRlRubTBVWHpmcmo3Yk8za0RB?oc=5",
+      "published": "2026-10-09T00:04:57+00:00",
+      "source": "アニメ！アニメ！",
+      "category": "公式・発表"
+    },
+    {
+      "title": "『青春ブタ野郎はディアフレンドの夢を見ない』公開記念！映画オリジナルグッズが当たる！Xフォロー＆リポストプレゼントキャンペーン！ - humax-cinema.co.jp",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1FQnRwdklhQnU3UVNzYktET2xXM2c5V1dObnZiUXJWQ2tCcndWR3M2aTRaWGNnSUthUmJjYW9tQ3hTZHNIN3B2cExISzFtQ0QyOHQtVUtCRWk?oc=5",
+      "published": "2026-10-08T23:17:34+00:00",
+      "source": "humax-cinema.co.jp",
+      "category": "グッズ・予約"
+    },
+    {
+      "title": "『青春ブタ野郎はディアフレンドの夢を見ない』公開記念！映画オリジナルグッズが当たる！Xフォロー＆リポストプレゼントキャンペーン！ - humax-cinema.co.jp",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBtdmRvNURDWkdTQnJyajJrUHZ2bk9KX0UyeUdRQTQ1VTBIRU5lRFEtMTZtY0ZOSzJkQlFXZ0M1SkFaT1p5LUNPUllEQzRQUQ?oc=5",
+      "published": "2026-10-08T23:00:00+00:00",
+      "source": "humax-cinema.co.jp",
+      "category": "劇場・上映・特典"
+    },
+    {
+      "title": "劇場アニメ『青春ブタ野郎はディアフレンドの夢を見ない』より、ハロウィン風コーデを楽しむ桜島麻衣、美東美織、牧之原翔子の描き下ろしイラストを使用したオンラインくじが登場！ - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9KcU9NSmU4LUtLTzNBaXB2SW9ZczdGdDdYQWF0VkdodlVoTE00XzZsN0h4MHpDWk1DSmt1UktzX3RScW53R1FZcE9Kbk51Rkl4dWxMdlUwTjNsczZnQVl4OVV0dEF4aDBzdnc?oc=5",
+      "published": "2026-10-08T03:00:02+00:00",
+      "source": "PR TIMES",
+      "category": "劇場・上映・特典"
+    },
+    {
+      "title": "劇場アニメ『青春ブタ野郎はディアフレンドの夢を見ない』からハロウィン風コーデを楽しむ桜島麻衣たちの描き下ろしイラストを使用したオンラインくじが「くじ引き堂」に登場！ - 電撃ホビーウェブ",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9TeVh3d2NRVWRMUVNfSFJVM1NDNENUUlFucG9NMlJCc2doZVVzUWZlNENuelJPUnNJQW83QkZzWGJhbktuTEFPTzNwWFZWYXQx?oc=5",
+      "published": "2026-10-08T03:00:00+00:00",
+      "source": "電撃ホビーウェブ",
+      "category": "公式・発表・劇場・上映・特典"
+    },
+    {
+      "title": "劇場アニメ『青春ブタ野郎はディアフレンドの夢を見ない』より、ハロウィン風コーデを楽しむ桜島麻衣、美東美織、牧之原翔子の描き下ろしイラストを使用したオンラインくじが登場！ - イザ！",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5yOXFUZGwzUm8tRVJMd1I4TWJfRXJpT1JvSkpObEZTQVBhRzU0QjhfZTRnbFd3bE5RLTdFVEd0WXR3dTJ5WFlkOURzV2VjaVhvWF9GaWdJOGxtbTAySkM5NWd3LXM2YVBxanNYeGlyNU04X2RfaDBXdlBn?oc=5",
+      "published": "2026-10-08T03:00:00+00:00",
+      "source": "イザ！",
+      "category": "劇場・上映・特典"
+    },
+    {
+      "title": "安安 × 劇場アニメ『青春ブタ野郎はディアフレンドの夢を見ない』10月16日より期間限定コラボ開催。再び”青春ブタ野郎よくばりセット”が登場… - フーズチャネル",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9wWk1IdkdRbmNIVk4yUnFtTmU2RnhaOUlPY0hoVHMtQ19lWWkwaGxaTkYtbXNGZFVEWjZGNkhfVl9JSXJfeFB0dTd4RmJsS3VHaHIwMXJn?oc=5",
+      "published": "2026-10-07T17:43:54+00:00",
+      "source": "フーズチャネル",
+      "category": "公式・発表・コラボ・イベント・劇場・上映・特典"
+    },
+    {
+      "title": "アニメ『青春ブタ野郎』シリーズのフィナーレビジュアルが公開 全国4ヶ所で公開記念舞台挨拶の開催も決定 - ラノベニュースオンライン",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE04SDh6Z0JhY09ROWhRSUR5VXZXX1FXRjZldEpJZGRzQWRfUWxJYjlTdXZTbmNRTnVqZzNsVEVIc2ZxbFFLVjlWbDB2OA?oc=5",
+      "published": "2026-10-07T11:31:31+00:00",
+      "source": "ラノベニュースオンライン",
+      "category": "公式・発表"
+    },
+    {
+      "title": "約250店舗でステッカー全6種を集める！横浜市『青春ブタ野郎はディアフレンドの夢を見ない×横浜市』コラボキャンペーン - Dtimes",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5fa0pnWURuUWZKYnFFMUNpa2lrWTFfUUR6Q0Z4Mk03YlJTdGJJbl9hMXJPcWlpU081WEtnZTJxTng2eXhFMWc?oc=5",
+      "published": "2026-10-07T11:09:12+00:00",
+      "source": "Dtimes",
+      "category": "コラボ・イベント・劇場・上映・特典・江の島・神奈川"
+    },
+    {
+      "title": "「青ブタ（青春ブタ野郎）」の配信はどこで見れる？アニメ1期・2期と劇場版を見放題で見られるサブスクを比較 - アニメ！アニメ！",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBUdW9admV6Y1p0UUp5UmVZRWdNUzNKaVlUVWNaTW5HUG10NWVQS3ZPWGtrV2FnNmdIc2FqZllGbXFVc3FNYUFON2tCaDBCaXQ0MmpYSU5sNmUwQTZ5UVd4eV9B?oc=5",
+      "published": "2026-10-07T07:11:52+00:00",
+      "source": "アニメ！アニメ！",
+      "category": "公式・発表・劇場・上映・特典・グッズ・予約"
+    },
+    {
+      "title": "『青春ブタ野郎はディアフレンドの夢を見ない×横浜市』コラボキャンペーン10/8(木)から開催！ - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9COWQ3Z0FSZ09lM1VjTEF2a0NIbmptUzUyUEd6MG5LaGI1azJ6YktvS0VDVGpzSVZIZzVvUDB3U0dNcXpQYXJpQTNheHhhTGJ4S3VpaHFYVmk3LUpwSGM0RWZ5bUFscDZtclE?oc=5",
+      "published": "2026-10-07T07:07:50+00:00",
+      "source": "PR TIMES",
+      "category": "公式・発表・コラボ・イベント・劇場・上映・特典・江の島・神奈川"
+    },
+    {
+      "title": "公開7周年記念！劇場アニメ『青春ブタ野郎はゆめみる少女の夢を見ない』 期間限定リバイバル上映決定 - www.banger.jp",
+      "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxQMU43N0k4X2ZZblBMZWV6dklSY3ZqemlEZ0dQbTRMREsxRlctZU9aeXh2SjV5anN2WGpyZlcwVWtpQTRNZVIzYUk5Y0pZV09KcHJSeUJidEFFQ0N5VktENXAwc3hpVnE4QWE2OHF3THBocFd1OFhNVEdET3pEMHlOd0FkX094ZDdRR3VSZDdXTFl6M2NCczVQRjk2REk3M1RlMUhiSzJkQ1JoLVk4ekpGODdnTzVNRzU0NEtnMmxma3gyS1luTUcyRDJMR0d6UEYxQ2Q1U2otMUVJa2VfTTlLV3ZtSEpfd056dUREdlo0NFZFVkZseXVDUThOVWEyZVVoRFJpbmlNbDlhelVEcTdmamFPejNFb2JnOXljU1I5bw?oc=5",
+      "published": "2026-10-07T03:50:57+00:00",
+      "source": "www.banger.jp",
+      "category": "劇場・上映・特典"
+    },
+    {
+      "title": "劇場アニメ「青春ブタ野郎はディアフレンドの夢を見ない」・画像・写真（37/37） - ぴあ映画 - ぴあエンタメ情報",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9XWUV6UGF5U3YyaEtUMnpTaXUtQUp2ZVJRSWtRUUVKZDhtSW1LT000NkpqSElxZWdnT2NldW5MZHh5NzVyOUw0MWstYnFEYmZES1JSYU12T1h0OTU4bWh5dHNIWmtzdm5hOHp6MklYNl9VckI3d1NpNw?oc=5",
+      "published": "2026-10-07T02:05:35+00:00",
+      "source": "ぴあエンタメ情報",
+      "category": "劇場・上映・特典"
+    },
+    {
+      "title": "黒のバニースーツが映える！『青春ブタ野郎』シリーズの桜島麻衣がプライズフィギュアになってタイトーから登場！ - 電撃ホビーウェブ",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1jWlM2bTBnRGVXZHJoZWFUU1Q4VEJXRVpMblVYWEplRUt1OXk2SVdJZ1N2NFF1bnIta3J1MHJkaTQzcm9fSjVtX2RSUlpyZUky?oc=5",
+      "published": "2026-10-06T10:00:00+00:00",
+      "source": "電撃ホビーウェブ",
+      "category": "公式・発表"
+    },
+    {
+      "title": "新江ノ島水族館が「青春ブタ野郎」コラボイベント 等身大パネルも - 湘南経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5oenloeW9PWjdEM1p2dmF4VlZ3YnpyUE9TN1lnVTJwYlpPN1lQTnNBSlNwZ2tGb1JTQXBEbUJKaTVyQUhVT0JFM0xMRlVxT3pNZXc?oc=5",
+      "published": "2026-10-06T04:37:44+00:00",
+      "source": "湘南経済新聞",
+      "category": "コラボ・イベント・江の島・神奈川"
+    },
+    {
+      "title": "新江ノ島水族館が「青春ブタ野郎」コラボイベント 等身大パネルも - 湘南経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5waUVpaS1XNXVVRzV2a1I4WUdZXzhNZkdNeXNrdDIwQXNPNFhyLUx6VEE4UmhOcXVmcHo1V0JJY3VRMzdSRVlwU1Y4SW1ZYm9MMDkyYw?oc=5",
+      "published": "2026-10-06T03:24:07+00:00",
+      "source": "湘南経済新聞",
+      "category": "コラボ・イベント・江の島・神奈川"
+    },
+    {
+      "title": "新江ノ島水族館が「青春ブタ野郎」コラボイベント 等身大パネルも (みんなの経済新聞ネットワーク) - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNOGJ3emNPLVV2SVJBRWlKMWoxbkdWd1RNLUJKYnBGaFU5Z3JHQ1NmZG9jSkVTSmQ2UnYxamE1d0pBVVBpY2tfeml2QjFSLWZwdDFWRU1WWHc1QlQzaWxMbHdFN0FtS0VLWHhaUUlyNmllbDRaQmd0aWdacHlITTRSZXNmRmVzMnBMY0pFQjJ3?oc=5",
+      "published": "2026-10-06T03:18:51+00:00",
+      "source": "Yahoo!ニュース",
+      "category": "コラボ・イベント・江の島・神奈川"
+    },
+    {
+      "title": "新江ノ島水族館が「青春ブタ野郎」コラボイベント　等身大パネルも - ｄメニューニュース",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9SRTBFNFNmMlhVRXhIdDVEYnQwcFNpc0J4ZmpTSHV2ZHI0Q3hJcktoUWlSbXlRRnZVTUdoMFk3bXllX0JwcDZHN0s5d1QxT19zeXphT1h6ZmNTeEYzcVB4Nmk3WkRKMTVJTEtGOG02Q3NHYUo3aU41T2FlQdIBgAFBVV95cUxPbVRQbmd4ZUtvMVBZTmw3ek03a2lDa2lKdEZVbEpmSVprU1ZKRl9neHNiNUxzNm9oUzZjV0tlNGhYQTNFdU1LME1ka01qRlFKdFdOMDEyaDJQcmhlc0lIM2NtaGhzTVUwQk93eTRETFBOM3llamhlTV85RW1mZFBReg?oc=5",
+      "published": "2026-10-06T03:18:00+00:00",
+      "source": "ｄメニューニュース",
+      "category": "公式・発表"
+    },
+    {
+      "title": "【青ブタ】石川界人＆瀬戸麻沙美＆石見舞菜香＆水瀬いのりが集結！シリーズ完結に「万感の思い」 劇場アニメ『⻘春ブタ野郎はディアフレンドの夢を⾒ない』完成披露上映会（オリコン） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Zck1GLVJQSkoydlJBVTNHRktfSUxxQ0tKZkJtczdfUnBSbGJQVlNlNHZ3V0ZOcllUQlNFc1lyZmxuWDhQV3Vwenl6MVBUT2o1SVFTeF9rTzZUX3dQUFJrd1B1ckxGTF9kUVY1Y3pHMHNGcmVqRHVETnltdlYyMmM?oc=5",
+      "published": "2026-10-06T00:30:02+00:00",
+      "source": "Yahoo!ニュース",
+      "category": "劇場・上映・特典"
+    },
+    {
+      "title": "劇場アニメ『青春ブタ野郎はディアフレンドの夢を見ない』第1週目来場者特典が配布決定！ - eeo",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1NZy1Ec2tPX1VfU0lLWVpjQURMc2lLeWlORlI3WGlTeHVteS10TVJveGZ1cGs1aV9SNHltMVh5VkozU3Z3d25yem5lZGNmNHdrVXh6Mw?oc=5",
+      "published": "2026-10-05T23:10:57+00:00",
+      "source": "eeo",
+      "category": "劇場・上映・特典・グッズ・予約"
+    },
+    {
+      "title": "「青春ブタ野郎はディアフレンドの夢を見ない」横浜市コラボキャンペーン×京急でキュン旅開催 - 北海道新聞デジタル",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdUxtMmtLYWVMQlNLYWRZY1lFX2ktdGVwaHJNR3drcVJtRUx1VFlFc2xtQ0x5TUVBZFp6RUszNWF1TTZWS0ktWWJpZ200WnI4akxBdy1rVFhTc2tKX2h5Z2pHQVpPOGZmb0JqSmw1YWhVNmNkckp6Wng0OEl6SkZiX3lCS09mNWYy?oc=5",
+      "published": "2026-10-05T21:58:45+00:00",
+      "source": "北海道新聞デジタル",
+      "category": "コラボ・イベント・江の島・神奈川"
+    },
+    {
+      "title": "劇場アニメ『青春ブタ野郎はディアフレンドの夢を見ない』完成披露上映会の公式イベントレポートが公開！ - eeo",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9DY3JrX0NsVWx0VEpoMFVublNVYVVUTVpmeG01N2pyMmxNV1BzX0E5X1B3anZqYkh1cFFxaU50R0VuVWxHY2F1NGY2VVhxU0lHN2pQWg?oc=5",
+      "published": "2026-10-05T12:01:36+00:00",
+      "source": "eeo",
+      "category": "公式・発表・コラボ・イベント・劇場・上映・特典・グッズ・予約"
+    },
+    {
+      "title": "青ブタ ディアフレンド 第1週来場者特典 書き下ろし小説の配布決定! - コラボカフェ",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQcVNCSTVOZDd1ajBoMmtGNjVxNnMwZnJUaDRYeTlzbVNPLVg1YTZSNFQ5dFNnOEJJRUZIajlYLWJzbXdHRkFRVFJCQlRTbmFRVTlfZW9CR0pXYmZsckVZTXY0ZnVCZVMxdzBJWFJHXzVzNmk0TzdiZlR3YW1pY0plQTBTNnNJcnhOU0NvdDFNdw?oc=5",
+      "published": "2026-10-05T10:50:18+00:00",
+      "source": "コラボカフェ",
+      "category": "公式・発表・コラボ・イベント・劇場・上映・特典"
+    },
+    {
+      "title": "安安 × 劇場アニメ『青春ブタ野郎はディアフレンドの夢を見ない』10月16日より期間限定コラボ開催。再び”青春ブタ野郎よくばりセット”が登場 - インサイド",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5JNTlLOWozNDBYTVd6aVZFOVBZd1dGTGdzSEE4QkZsb0pyZUMzM3FlUjNLbzFOWnlSeHNDYW45X3FFV095a085bm9EUWxCa0g1X0p3U0xGWGpiUTZRaExlbHpnXzl3bEZ3ckNKZkZWYzFwZw?oc=5",
+      "published": "2026-10-05T08:10:02+00:00",
+      "source": "インサイド",
+      "category": "コラボ・イベント・劇場・上映・特典"
+    },
+    {
+      "title": "安安 × 劇場アニメ『青春ブタ野郎はディアフレンドの夢を見ない』10月16日より期間限定コラボ開催。再び”青春ブタ野郎よくばりセット”が登場 - Infoseek",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5EMEZ4VFZQY1JQSWQ2M2lqdHByQ0RVWl82TmJnQWRHMFJHY2poRDBBYUFGamRzVkNMRkVESmQ3ZU1ndEh0ZXpJbFYyTktpYlRJOGV4Q1dEeVhNT3JOdlpDV0ZvWjBFRElJeTlhRmpXbnJyZw?oc=5",
+      "published": "2026-10-05T08:10:00+00:00",
+      "source": "Infoseek",
+      "category": "江の島・神奈川"
+    },
+    {
+      "title": "青春ブタ野郎：完結記念 フィナーレビジュアルにヒロイン勢ぞろい - MANTANWEB",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5yZ21nbGo5WV9oemdKZGNWRE9ZTDE2QzFLTnJPcE5uN3NtZ19OQTZQME1DZmVrT0hNbUUxR2hqRjA4dnZDYTdaalRYc0psdnNOTFBrN3U1Wm41UXd0Vnl1SDVZckZZTHFRWFlF?oc=5",
+      "published": "2026-10-05T07:28:46+00:00",
+      "source": "MANTANWEB",
+      "category": "コラボ・イベント・劇場・上映・特典"
+    },
+    {
+      "title": "劇場アニメ「青春ブタ野郎はディアフレンドの夢を見ない」の第1週の来場者特典 [画像・動画ギャラリー 1/3] - ナタリー",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9mbHh2N1JkX3NpcDFvOTZWZ1JZcU96cmpQWWFleF9NMGhRYTRPYXNHREEzakc4aXpoaEs4dXdhbS1KUWlxNGo3anczb2UtWnNaWDVCd1ZhekNVYmYwN2E1NFFB?oc=5",
+      "published": "2026-10-05T07:00:00+00:00",
+      "source": "ナタリー",
+      "category": "劇場・上映・特典"
+    },
+    {
+      "title": "青春ブタ野郎 劇場版10/16公開、初週特典は鴨志田一書き下ろし小説――電撃文庫秋の祭典でアニメ化続々 - shiritomo",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBhMC10MnNrWkpvb2dpVnFMaW15NTdMYmFYb3A0cy1lSnFMYnRKRG5ZZExmYl9nbXM4cjdJaUlPWGpVaVVYcnc?oc=5",
+      "published": "2026-10-05T04:21:32+00:00",
+      "source": "shiritomo",
+      "category": "公式・発表・劇場・上映・特典"
+    },
+    {
+      "title": "劇場アニメ『青春ブタ野郎はディアフレンドの夢を見ない』のコラボ企画「青春ブタ野郎ラーメン」が野郎ラーメン5店舗にて開催中 - 千葉テレビ放送株式会社",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBaNEpHbFdFQWxEVHo1T1dOUGtTX3dVVm1WbjdoSXlwVUVGVEw3a0hWcXZuZmJaNnM5dFl3blpOc0NtMGFMWnAydU15c1QyLUpET0oySG1zNGdNYXg3RWlR?oc=5",
+      "published": "2026-10-05T04:01:33+00:00",
+      "source": "千葉テレビ放送株式会社",
+      "category": "公式・発表・コラボ・イベント・劇場・上映・特典"
+    },
+    {
+      "title": "安安 × 劇場アニメ『青春ブタ野郎は...｜Release No.3021195｜eltha（エルザ） - eltha",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5HSkNQVlN1NWlRNk8tVWVta1VXWjJLckh2MzgwUUNaTXZmX2tIaUpabTVybWpOUEMyWmVJUXdrZUkzVkhCUnctdVc5U1BzWm1kRk1abXdVR2dyTTlEZ1E?oc=5",
+      "published": "2026-10-05T00:16:00+00:00",
+      "source": "eltha",
+      "category": "コラボ・イベント"
+    },
+    {
+      "title": "劇場アニメ『青春ブタ野郎はディアフレンドの夢を見ない』完成披露上映会開催 - 石川界人「\"最後\"にふさわしい作品」 - マイナビニュース",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8tSUhKMGhXd0NFVlQxT3FHTWhqZkYyR25QdkRwaFdxTVNKVzBvSXluZ25wN0tKTFdMY3d1TUJSRjhjcG05c0Y5bU4yTWJiZUJmMG5lOXROYXZhUmYz?oc=5",
+      "published": "2026-10-05T00:13:39+00:00",
+      "source": "マイナビニュース",
+      "category": "コラボ・イベント・劇場・上映・特典"
+    },
+    {
+      "title": "劇場アニメ「青春ブタ野郎はディアフレンドの夢を見ない」完成披露上映会に登壇した瀬戸麻沙美 [画像・動画ギャラリー 3/7] - ナタリー",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE02TmdyUVhpY3NSRVdWVmpCSlNJSFJ5cFE3QjhqSlRpaFoxamZWMnNpbDlHQXh2X1hWUFBkM3Z2UVFVZHRXek9BRXljMVgxblhia05BY2J0TjNaMWl3WHVxbEZ3?oc=5",
+      "published": "2026-10-04T15:26:07+00:00",
+      "source": "ナタリー",
+      "category": "劇場・上映・特典"
+    },
+    {
+      "title": "「魔王2099」「ガンゲイル・オンラインII」「青春ブタ野郎」シリーズなど6作品の新情報を届ける番組「アニプレックス×KADOKAWA アニメ祭」が8月2日に配信！ - Gamer",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0yaGRadm9oeENkQnRQWjJyM0FkdzI1NlRtSkl3ZDZ5MzJ4VnFZUm14d3RYN3lxbklZVFZidGVIMG1yVHBDUDFxckNBaUZxUnBRMFlQenZiek1ZUExUWmc?oc=5",
+      "published": "2026-10-04T14:24:57+00:00",
+      "source": "Gamer",
+      "category": "公式・発表"
+    },
+    {
+      "title": "【青ブタ】劇場版「青春ブタ野郎はディアフレンドの夢を見ない」×「3・6・5酒場」コラボ『青春ブタ野郎酒場』に行ってきた【コラボカフェ】 - YouTube",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1FS2lZeXIybXBtOWJDMGhmeUk1VWI0M2EzMTgzYjkyY2kwTnR6MzlvRjlvclFmejQxOFk3Nmd2OWwxR1p4OGxYREVoWnRCN3NfSENHM0s3UW4zZEZl?oc=5",
+      "published": "2026-10-04T11:44:00+00:00",
+      "source": "YouTube",
+      "category": "コラボ・イベント・劇場・上映・特典"
+    },
+    {
+      "title": "「青ブタ」石川界人は完結が嫌すぎてギリギリの現場入り、“ブタ野郎”たちに感謝 - ナタリー",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5XeFRaQnhwQ09peEdEcjdEQVFPSUdjbS1xMEVaalpXSmsxbUd6S0lBMEFBR2dJakRHU2pTaEVIRXVaVTB0UjE3QWs5eXA?oc=5",
+      "published": "2026-10-04T11:24:00+00:00",
+      "source": "ナタリー",
+      "category": "コラボ・イベント・劇場・上映・特典"
+    },
+    {
+      "title": "青春ブタ野郎：ついに完結へ 石川界人「万感」 “ブタ野郎”に感謝 - MANTANWEB",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0zUXJOLURtSzJrRHY1aUtWZ0t3M3FOMHdzTGxsbnpmQ1RIT1J0YlZnMjdwSkwyTEl1ZTdvNkhYMjdhUm4tc2JqM0l2YmQ2NjhHQlhnUUFwYXI1aU05ejVtYjI1bWtaX2dDS2dR?oc=5",
+      "published": "2026-10-04T11:10:11+00:00",
+      "source": "MANTANWEB",
+      "category": "コラボ・イベント・劇場・上映・特典"
+    },
+    {
+      "title": "「青春ブタ野郎はディアフレンドの夢を見ない」公開記念舞台挨拶開催決定！ | ニュース | アニプレックス オフィシャルサイト - Aniplex",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE16ZkRWZTZrT2xCaFpwZWZjaFByTkVybkJMWEtpMzhwM0ZxUTNyRlBhOTJ5UndPOUZYU3Q0bGtDRFVIdzIzU0ZXdEJXam5xcEEzS01jVXFRMzB3Z00?oc=5",
+      "published": "2026-10-04T10:17:48+00:00",
+      "source": "Aniplex",
+      "category": "劇場・上映・特典"
+    },
+    {
+      "title": "「青春ブタ野郎はディアフレンドの夢を見ない」劇場物販決定！ | ニュース | アニプレックス オフィシャルサイト - Aniplex",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9wd0lOVlNTTTdIc0VZeThMUHA3V2NpcHNXYVdnTklibzFhdDlqQUN5bDRUQVV6Z1RuSzFZQldWbkxNcWVUSmRENG8wNVFSMTVzR2UtdG9hWmcxM0k?oc=5",
+      "published": "2026-10-04T10:17:47+00:00",
+      "source": "Aniplex",
+      "category": "劇場・上映・特典"
+    },
+    {
+      "title": "『青春ブタ野郎はディアフレンドの夢を見ない』公開記念舞台挨拶決定！ - １０９シネマズ",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9zaW93NzRBSjBPQXpjSTFuSURESGMxdGNCeUxfUC1adEZfR3JYbHUxaWdwUW1ZSWE3OF9IMnNKRFVrWjZjbGgyLTdldTl1S00?oc=5",
+      "published": "2026-10-04T10:07:58+00:00",
+      "source": "１０９シネマズ",
+      "category": "公式・発表・劇場・上映・特典"
+    },
+    {
+      "title": "安安 × 劇場アニメ『青春ブタ野郎はディアフレンドの夢を見ない』10月16日より期間限定コラボ開催。再び”青春ブタ野郎よくばりセット”が登場 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE53UUVaZ05qcldUVU1vZEpObmtIcU1hYzZUaGR3cnN4eE1YbzUzaXlRcnk1TmpDbnFqTG5rTk5NMlB2d09SazViOExjei1DazNCR280UFNQYTJqTllUeDZ3eVRueUI0MkFtVFE?oc=5",
+      "published": "2026-10-04T09:18:18+00:00",
+      "source": "PR TIMES",
+      "category": "コラボ・イベント・劇場・上映・特典"
+    },
+    {
+      "title": "安安 × 劇場アニメ『青春ブタ野郎はディアフレンドの夢を見ない』10月16日より期間限定コラボ開催。再び”青春ブタ野郎よくばりセット”が登場 - 朝日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBoNG4yNmNRNVZzUVZwLWIzcmc5REVDWmFHRGhzYXdjUEU2UzRERVdsV0s3UkF5SjhiOW1KUDViWE4wdlpKVy1obkhPQkRENFFEZjlUTWxlaXhKRGc?oc=5",
+      "published": "2026-10-04T09:18:18+00:00",
+      "source": "朝日新聞",
+      "category": "コラボ・イベント・劇場・上映・特典"
+    },
+    {
+      "title": "劇場版「青ブタ」完結編公開に先がけ冒頭映像をお披露目、フィナーレビジジュアルも（動画あり） - ナタリー",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFA2N0llWENFcnNVTUY5cjF3bHNTYXFKeWFxVk93UWVPZmNvTzdnNVVlaEFFb3ZFSDYydUdzX1VMZjhudkNKc2h0Z3JTbi0?oc=5",
+      "published": "2026-10-04T09:00:00+00:00",
+      "source": "ナタリー",
+      "category": "公式・発表・劇場・上映・特典"
+    },
+    {
+      "title": "青春ブタ野郎＞完結記念 フィナーレビジュアルにヒロイン勢ぞろい（MANTANWEB） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBfZmhwUlBVaEo0U3RlS213ZHNKaVhrXzQ2dHEzYXlQR2tPNjAtaHVCSHpZemFaRUdLdm9PQ0h5OFFrRVdSdU1JZ1dPeHE1VHNGXzY3SmlUOTlzYmxRQ1hFdDNySHhCNUNCdWdWN1BhRHdzc2dreTBld1pEUnI1WGs?oc=5",
+      "published": "2026-10-04T09:00:00+00:00",
+      "source": "Yahoo!ニュース",
+      "category": "公式・発表"
+    },
+    {
+      "title": "青春ブタ野郎＞完結記念 フィナーレビジュアルにヒロイン勢ぞろい (MANTANWEB) - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcFY4eHBxT21mQ1hlMHA3UkVwN09Jemxmcml6WWdoT3UyTDZVV0lIMHdtY0JwQUNTQ1p1OTMxOF9OOS1GcFR5QWhfeU1yeEZLV2wyTXJaU2pDRzctQ3B5WDBZcDg4Mm5QWFpQSC1IYnpxYWJGWHNxLXF4QzVjU1hSbHpOMXVhVmFzZVA1UDZ3?oc=5",
+      "published": "2026-10-04T09:00:00+00:00",
+      "source": "Yahoo!ニュース",
+      "category": "公式・発表"
+    },
+    {
+      "title": "劇場アニメ『青春ブタ野郎はディアフレンドの夢を見ない』本編冒頭映像＆フィナーレビジュアル解禁！ - 電撃オンライン",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBtcTFyU21Rekg4cjhxb2MyNFdoUEhJUFZPNGc5V1ZtUzJFV3VZZWpOZGpHeFVCemRNX1FrM2hXdEx6bjhJcmVTREdGb3E2RHM0amp6eXlLS0VNdw?oc=5",
+      "published": "2026-10-04T09:00:00+00:00",
+      "source": "電撃オンライン",
+      "category": "公式・発表・コラボ・イベント・劇場・上映・特典"
+    },
+    {
+      "title": "『青春ブタ野郎はディアフレンドの夢を見ない』フィナーレビジュアル解禁！ - アニメイトタイムズ",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5pbFZoVXZrWnJrSnltZy1FRFFtV1VoRUtUU3pBM21ySlpyakF2ZldvT3dYdVk4bmdjdXFsYkN1Z0oyeHA2WkdrM0E5d1hsUUc4MmRaWEZ3bkh2bFRCRHNSTTN5SEV6ODZPOTlZ?oc=5",
+      "published": "2026-10-04T09:00:00+00:00",
+      "source": "アニメイトタイムズ",
+      "category": "コラボ・イベント・劇場・上映・特典"
+    },
+    {
+      "title": "劇場アニメ『青春ブタ野郎はディアフレンドの夢を見ない』本編冒頭映像＆フィナーレビジュアル解禁！ - 電撃オンライン",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9FRWpXMEhGbkVldjQwWFV5VjVYUXpfWXhjVjFEV1U1NWNJMkhwdHdZZm1NcnNrbkRxYllkbkxEV1ZJc0NqWmdpWHAtNWJtX0RSWUVrTEJ2WGhPTDh4NVBUUGhqa2FvWU1jZjdOUg?oc=5",
+      "published": "2026-10-04T07:21:00+00:00",
+      "source": "電撃オンライン",
+      "category": "劇場・上映・特典"
+    },
+    {
+      "title": "安安 × 劇場アニメ『青春ブタ野郎はディアフレンドの夢を見ない』10月16日より期間限定コラボ開催。再び”青春ブタ野郎よくばりセット”が登場 - 毎日キレイ",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9yZENsNGxCT0ppSHJfbUwzNXFBUURneE5vbGFlNnNhWnRWaGRScVFSN3ZUZElXcVAzQVJXeXVlT01fOXhWOVpwTEowMUo5M2NtdEFMR3YxODRLQzBmM254MmdjbWlkTDc3YXRSazE3dU1QQVdvTFRUeTR3?oc=5",
+      "published": "2026-10-04T07:00:00+00:00",
+      "source": "毎日キレイ",
+      "category": "コラボ・イベント・劇場・上映・特典"
+    },
+    {
+      "title": "安安 × 劇場アニメ『青春ブタ野郎はディアフレンドの夢を見ない』10月16日より期間限定コラボ開催。再び”青春ブタ野郎よくばりセット”が登場 - Mantan Web",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBhRmk3OWU4ZTNsUTRFbGJ6YUdYaFpZZzVvZTlTRU81bWgyWXRJNVdGOUktTWRVTmZsaVY3ei1GdmlhS1M3VTVxMnBGQ0pwZlV5QVJsTjF6emlVRTdXMFNpZHVWMXd3dzJvUDV4dVN5dERYeGZTV0E?oc=5",
+      "published": "2026-10-04T07:00:00+00:00",
+      "source": "Mantan Web",
+      "category": "劇場・上映・特典"
+    },
+    {
+      "title": "安安 × 劇場アニメ『青春ブタ野郎はディアフレンドの夢を見ない』10月16日より期間限定コラボ開催。再び”青春ブタ野郎よくばりセット”が登場 - MANTANWEB",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPLVdkTS15QUF4SnBtQzltd0luR1JhR2JjNFNOWEtNS1pVMFh2cU43b0FmVmMwNXJ4eUViUWpzdWFMOEVtVkxYbmpUOTk0SmtVWENwNXlURWFUYll3TEpJUFRCMjhLVlhMN3M3NUpfN2F3SlF2c0JMWW1SaGNfZVE1c3pFTDN4OW9S?oc=5",
+      "published": "2026-10-04T07:00:00+00:00",
+      "source": "MANTANWEB",
+      "category": "劇場・上映・特典"
+    },
+    {
+      "title": "『青春ブタ野郎はプレシャスデイズの夢を見ない』公式番外編。誕生日プレゼントのお話しや夏の思い出など日常風景をお届け - 電撃オンライン",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9tUWpSd1lsbUdSN3pUZlVvYXVtNEtXeDduakpaeENyWko2OXVsS1ZLQ01LUFY0RU1Ja2d2ZVhnWG5MRVhvV2RnVnVIRGRPNGpuYmNZQlNzSDhsZw?oc=5",
+      "published": "2026-10-04T01:30:00+00:00",
+      "source": "電撃オンライン",
+      "category": "公式・発表・グッズ・予約"
+    },
+    {
+      "title": "劇場版「青ブタ」完結編 第1週の来場者特典は鴨志田一の書き下ろし小説 (コミックナタリー) - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOYWxKZTd5UUUwY05xSGJWRHJmN0YzaHV4TWxhV1VxX1RkUVBVMzNOdDJlZTZkTkpXeFdhd2dRZVNUU0pWejVJZG9Wd3FiSFR1NlhVaWs1NmhPajRvXzRwUDJfbWxZWmVwWE9NTTYxTzlNNXJNWlpQb2Z2UUVORzlHdmtJRXRmdm5oNzFONi1B?oc=5",
+      "published": "2026-10-03T15:49:48+00:00",
+      "source": "Yahoo!ニュース",
+      "category": "劇場・上映・特典"
+    },
+    {
+      "title": "青ブタ 京まふ2026先行 ”春のお出かけ”描き下ろしグッズ 一般発売! - コラボカフェ",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQS29Rd0k3RkNTUDE0VnhNQmFlUWRQSGJVSGJwSUpXdnV3cThUaTBlYlgzT21tUVBVMURDNmF0dm5jUUJ4QkZHTHo4ZjhETnd4ZmZZU29oYjQxekpMcUxQSmZiNGZBUGFCelBqOF94S0l0dkZIcHVKbE9DUi1aR1JJem15Mldmb2RuNnhmbFJSYWVPWmhsZG8yRzlDMkE?oc=5",
+      "published": "2026-10-03T10:04:39+00:00",
+      "source": "コラボカフェ",
+      "category": "公式・発表・グッズ・予約"
+    },
+    {
+      "title": "青春ブタ野郎はディアフレンドの夢を見ない：来場者特典に書き下ろし小説 「青春ブタ野郎はティーガーデンの夢を見る」 - MANTANWEB",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA4Q3loVmlGYldEdTRSeWlBSHAySlVsZVd5bXduSmlhT3hVeHZSelpaM1ZyLWxVYktkNWN6M1NLbEdOeEM4QU5Kdy1fa2JGNGMwdGg2WEFyYzlybEd0MVU3WXdrQXdBd3lhQTRj?oc=5",
+      "published": "2026-10-03T09:33:30+00:00",
+      "source": "MANTANWEB",
+      "category": "劇場・上映・特典"
+    },
+    {
+      "title": "＜青春ブタ野郎はディアフレンドの夢を見ない＞来場者特典に書き下ろし小説 「青春ブタ野郎はティーガーデンの夢を見る」 - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ua0VOZmJnaUNBYzVlS0Q2LWJ5X1oxNFlOV0xZc0laYmJObl9vRzlwNmh2b2FIb0lmc2VqLVlPZWNaNkZmMEdVQ2dJVUxGR3BYcmtCQnN1bEJQZlVJX3d1Y0pwczRuZDNfblR5VWo4MlJPb21NOWs1V3lZTlNHX0U?oc=5",
+      "published": "2026-10-03T09:33:00+00:00",
+      "source": "Yahoo!ニュース",
+      "category": "公式・発表"
+    },
+    {
+      "title": "＜青春ブタ野郎はディアフレンドの夢を見ない＞来場者特典に書き下ろし小説 「青春ブタ野郎はティーガーデンの夢を見る」 - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOM1RIYTBzRm9JUVV5QmFmZjlmelg1UHVLYWZBeGcwRW9iV0xIZkUyNmJVWFBlMkloQVZZbDZzWmh6NUVlZmFPZk9PR3RxT3NLbG1Ec21GcjZ3Z2ZoX2lwcVA4MEdSMWRjVkdLNDFQTXgwMHNyMTVkX3g5b2g1Y0ZGZ3hpSnlIcEk4Snd3TG5n?oc=5",
+      "published": "2026-10-03T09:33:00+00:00",
+      "source": "Yahoo!ニュース",
+      "category": "公式・発表"
+    },
+    {
+      "title": "『青春ブタ野郎はディアフレンドの夢を見ない』第1週目来場者特典が決定！ - アニメイトタイムズ",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1FbnFPVGJzU2poOEQxQXEyeU9neWlmb2pjUThXUXBfdHRzWmJvdE5xcjB0Z0FJQWpLbTVSaHNDc2w0eWNDZkZmZk01ajlRZzJvdUN3OE50eWt5dGF0YUNjWlF4S0ttWTNqbkZR?oc=5",
+      "published": "2026-10-03T09:30:00+00:00",
+      "source": "アニメイトタイムズ",
+      "category": "公式・発表・劇場・上映・特典・グッズ・予約"
+    },
+    {
+      "title": "劇場アニメ『⻘春ブタ野郎はディアフレンドの夢を⾒ない』1週⽬来場者特典は原作者書き下ろし小説『⻘春ブタ野郎はティーガーデンの夢を⾒る』 - 電撃オンライン",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5rTXQ4Q1ZINVlvcHVsSm5mbkpGN3NxcDMxRFItWms5bnRzcGRRaW0yUTB6eWxCWUE5MzdPNkR6bnNxOW51c3BXbjQ0Y0ZRQUZVOG1pNzFQWkdVUQ?oc=5",
+      "published": "2026-10-03T09:30:00+00:00",
+      "source": "電撃オンライン",
+      "category": "公式・発表・コラボ・イベント・劇場・上映・特典"
+    },
+    {
+      "title": "劇場版「青ブタ」完結編 第1週の来場者特典は鴨志田一の書き下ろし小説 - ナタリー",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBCNE5PeGpCLTk1X1pyMHdVY3AwX0h0NjB2UHNBeEktQk5HUlpIdmxNNDJtZDhWMHlfNEIxWTd1eDY0cXNJRzd6elVlQ0c?oc=5",
+      "published": "2026-10-03T09:30:00+00:00",
+      "source": "ナタリー",
+      "category": "公式・発表・劇場・上映・特典"
+    },
+    {
+      "title": "【10月の劇場アニメ】『青春ブタ野郎』『ヤマトよ永遠に』がついに完結！ 『メイドインアビス』は劇場シリーズの第一部が公開 - 週刊アスキー",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE42Y2VZeERWWEs5bFB2cHgwUkhNNG1qQTdaRnM4T0xFX1lMSVBxT2NsVWJTMjA1SHdYZTl3S0RRMnE3a0FVMHU0YS1QVDVWMTJ1T2hPLVd0UjdUQmIzNmc?oc=5",
+      "published": "2026-10-03T04:30:00+00:00",
+      "source": "週刊アスキー",
+      "category": "劇場・上映・特典"
+    },
+    {
+      "title": "【10月の劇場アニメ】『青春ブタ野郎』『ヤマトよ永遠に』がついに完結！ 『メイドインアビス』は劇場シリーズの第一部が公開 (1/8) - ASCII.jp",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1ZSzlHY3RrckhaTXA0TUJOY0ttRHExSVQyQ19JU1ZicU9QNkR4UnpjT0t3ME5ZaWJEd1RXVEl3RmRjNGpYMG12UjNRZDg4MkR2eW1nRQ?oc=5",
+      "published": "2026-10-03T04:30:00+00:00",
+      "source": "ASCII.jp",
+      "category": "劇場・上映・特典"
+    },
+    {
+      "title": "“青春ブタ野郎酒場”が3・6・5酒場にて開催！ 江の島をイメージした限定メニューやオリジナルグッズが登場【青ブタ】 - 電撃オンライン",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBXVWI0S3ByN29TbnBaSTlfU0tzTmtsaUhDeVZZNGVBSkdQT2hnUXEwbGU3dW8xc0Zzb1V4NEV2bDJhS3lyNC02OWJNZ2pwMUpkbU5xNTY2MlZpQQ?oc=5",
+      "published": "2026-10-03T04:00:00+00:00",
+      "source": "電撃オンライン",
+      "category": "公式・発表・コラボ・イベント・グッズ・予約・江の島・神奈川"
+    },
+    {
+      "title": "青ブタ × 京急 スタンディと限定壁紙 10月8日より6スポットで! - コラボカフェ",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9qc0V1bkRDMkNuRW9xVDZfUDlra2gxQWxqVGFwVkh1eHg2RVo3R2NNbzJ2TzJjYmFEdmZiNmFjNXFzVUpDQ3R3MEFWZzFYNzYzaW56VE9nS3pEMTl3V0RBdk9mVExYMzdDa2k3MjNuU01xMjFoQkdLeVZGQi1TYm8?oc=5",
+      "published": "2026-10-02T07:00:00+00:00",
+      "source": "コラボカフェ",
+      "category": "コラボ・イベント"
+    },
+    {
+      "title": "【メンバーズ マイページ登録会員限定】10/16(金)公開『青春ブタ野郎はディアフレンドの夢を見ない』メンバーズキャンペーン🌟 - コロナワールド",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1INHBWeEhzay1hWl9JM2l4bjBJLWhxWDllWkpoTjdQYTZUdzlNU3o1d3F3M1paNUZiY294REw5NnZmOWxZenVTWU5CZEU4XzA?oc=5",
+      "published": "2026-10-02T03:08:35+00:00",
+      "source": "コロナワールド",
+      "category": "グッズ・予約"
+    },
+    {
+      "title": "劇場アニメ「青春ブタ野郎はランドセルガールの夢を見ない」POP UP SHOPが3月22日よりゲーマーズにて開催！ - Gamer",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBvVk1acjZYenN2SEpOTEN1bFVrLUJGTXdCeml2ODlBR1FtMGJRVGZiVVlwQWJVMnpieXhuT3pzVGlVeFJuRDBiMEF0MVFaRWpIdUxlek54SEVzN3gxcnFj?oc=5",
+      "published": "2026-10-01T13:33:07+00:00",
+      "source": "Gamer",
+      "category": "コラボ・イベント・劇場・上映・特典"
+    },
+    {
+      "title": "『青春ブタ野郎はディアフレンドの夢を見ない』横浜市コラボキャンペーン×京急でキュン旅開催 - アニメイトタイムズ",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9rVjAzR2IxV241bGhadjBFRE5hN3RCNjZUVDdtZnJLRThUSmM4ZlRCc0oyWC05dkU3REtwRXJUeDlqYTJYc2E4TmQtZlFfcm02dFVmbjBsYk5GdU5YQ0diMm9uam9HZkhOMmd4LWdZdVQ?oc=5",
+      "published": "2026-10-01T11:42:07+00:00",
+      "source": "アニメイトタイムズ",
+      "category": "コラボ・イベント"
+    },
+    {
+      "title": "『青春ブタ野郎はディアフレンドの夢を見ない』横浜市コラボキャンペーン×京急でキュン旅開催 - アニメイトタイムズ",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA0ei1qaUpQajQ5cTNHejVpbVFlQW10UGdCUk5IU2VkU19MbHBpRk1PTU1JanpKSElSWUZsbEhpX3hCcy1fWnpkMEN2Sm1oUFJWbVl5OUtjMXNDUHF2aWJNWFA1UVNtb3pnczBacnp2ekM?oc=5",
+      "published": "2026-10-01T11:38:47+00:00",
+      "source": "アニメイトタイムズ",
+      "category": "江の島・神奈川"
+    },
+    {
+      "title": "「串かつ でんがな」で劇場アニメ「青春ブタ野郎はランドセルガールの夢を見ない」とのコラボが決定！ - Gamer",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBRT0stLUVLUjRSUTE4NlJ4VU9DcXdKSVBmVGdqdDdZZHRxNHlXODhjeGRDdkhZSXVtV2NpcDVfSHNkbGVhUlYxVTNfc0FXVGNNTkZFb1FnMko1ZnNxWWc?oc=5",
+      "published": "2026-10-01T11:02:10+00:00",
+      "source": "Gamer",
+      "category": "コラボ・イベント・劇場・上映・特典"
+    },
+    {
+      "title": "「青春ブタ野郎はディアフレンドの夢を見ない」横浜市コラボキャンペーン×京急でキュン旅開催 - 北海道新聞デジタル",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMGs0MDNRUGdLWEduQWtPbzR2blZuZndXVHFQb0RTTWgxY3QxdUJfYVZKTjRTOWZqRGdNX2YtUm0tOFY0TjN2eFBVMHdpemhGX1FiUXFTNHpOdE5rNmF5aVNhVkd6UEJEWWJfNXpFYkFJVG1CME4yNi05eUs1amlQdTE5cEZmdFFk?oc=5",
+      "published": "2026-10-01T10:20:21+00:00",
+      "source": "北海道新聞デジタル",
+      "category": "江の島・神奈川"
+    },
+    {
+      "title": "「青春ブタ野郎はディアフレンドの夢を見ない」横浜市コラボキャンペーン×京急でキュン旅開催 - 北海道新聞デジタル",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMV9pY3VSd0lTZlVlNUxaRWJBTUUxWFhBWUpub2pqOWNNRE1EdTNlYUpkaDFmbURjT1owb3NrekFNRWpoQ3BlODlTNGFXbjE1RjBERlhjNHB4MFpHUk1oS3NZT0laODBwQmZ1T29zeWFDY1lGMWxTS2V2Mzg1QTlOUXhIdEp0RVh1?oc=5",
+      "published": "2026-10-01T10:20:03+00:00",
+      "source": "北海道新聞デジタル",
+      "category": "江の島・神奈川"
+    },
+    {
+      "title": "「青春ブタ野郎はディアフレンドの夢を見ない」横浜市コラボキャンペーン×京急でキュン旅開催 - 北海道新聞デジタル",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQ1dNTW12OE9xZmZzUFB0WjlLdjBMX3pMcWFMTjRUUkR5V2FleW9JVE5nX1BXTExvc0JpekZzbEhRa01OdURWQnRidEN5Y045bi1STHR6SHhLOWhHcHVYMnNteWFSSnFIUWoyR0JMSEJlbnhSX05UUVFhVU5XVjJFWW5FUjlNSGha?oc=5",
+      "published": "2026-10-01T10:20:01+00:00",
+      "source": "北海道新聞デジタル",
+      "category": "江の島・神奈川"
+    },
+    {
+      "title": "「青春ブタ野郎はディアフレンドの夢を見ない」×「野郎ラーメン」コラボイベント開催！ - Digital PR Platform",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1pZDRzcG10V0x2SVRwNnJTZDJlcG9DZnNSZGowTlptRXM4cFV3V0hRS2p2VERjcUZNd1Q0NjlRdjBFUmVJODhLWnlDUG1HbGtmTVBVYkVTelVwQXh6aXB4ag?oc=5",
+      "published": "2026-10-01T09:57:45+00:00",
+      "source": "Digital PR Platform",
+      "category": "コラボ・イベント"
+    },
+    {
+      "title": "石川界人、「青春ブタ野郎」シリーズ完結作の予告に感涙「何回見ても涙が来る」完結作をキャスト陣が徹底解説 - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBUQk1kQXFhTXMyNGhhUXFPbFItUGQyZ29OeEZvUDFBdWN5ZFdTY3VNX3JJRlRDNnFJWDJJZF9pQ0hJcXh6UlJ6TERDVl9iMS1PTld1dmZFLTI1Nm84dnZxRDNRTkk2NkhsVkpfR0pjdzBiY3JNT2VXODhFMW1oWGM?oc=5",
+      "published": "2026-10-01T07:00:00+00:00",
+      "source": "Yahoo!ニュース",
+      "category": "公式・発表・劇場・上映・特典"
+    },
+    {
+      "title": "石川界人、「青春ブタ野郎」シリーズ完結作の予告に感涙「何回見ても涙が来る」完結作をキャスト陣が徹底解説 - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQYjNwYnRZVHp0MmlNemRyMmNhZnFKZWZzMTFxNU0xQmJFeW80a0M3UkZMeGo5TzYxY083aDRGX0FXMV90bnRrWXdCN01wRFl4OXE3Q051NVp0SWptd0RXcTBmb0lQbHY4WHNFRGppRXdVcTJ0TXV4MlNNRngxckVXTl9DYURsMFBjby04QWNn?oc=5",
+      "published": "2026-10-01T07:00:00+00:00",
+      "source": "Yahoo!ニュース",
+      "category": "公式・発表"
+    },
+    {
+      "title": "青春ブタ野郎 × 野郎ラーメン 10月1日より東京ほか5店舗にて開催! - コラボカフェ",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBEVnB1c2V1TmkySVhkZUk3VUFLZlZVU2pRbnF6b0h2MTFhRVZXZVN4bjMyM1VxS1ltdkE5R1Rfa2xwdjRTTm84VWstcUw3S3NoUnh2REJoX00xb2VKUEZFTVZ1eDBBSWZ3RERKMktzSm45RHYtVkF6Tl9B?oc=5",
+      "published": "2026-10-01T07:00:00+00:00",
+      "source": "コラボカフェ",
+      "category": "公式・発表・コラボ・イベント・グッズ・予約"
+    },
+    {
+      "title": "『青春ブタ野郎はディアフレンドの夢を見ない×横浜市』特別デザインみなとぶらりチケットワイドを発売します！ - 横浜市",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9iYm03VzI2QVQ1YWJpaUU5NGdpZ05MUjRycjJXX1RBc21tODMwd09QV1VCR282a0ZkTUd4dTREREdrajBUVEptTVdoR2VHRGllSG1FQ3h6QzZFZnRGMHRCLXlta3gwRFVNNXZCQktmNUY4blp0?oc=5",
+      "published": "2026-10-01T07:00:00+00:00",
+      "source": "横浜市",
+      "category": "コラボ・イベント・グッズ・予約・江の島・神奈川"
+    },
+    {
+      "title": "「青春ブタ野郎はディアフレンドの夢を見ない」×「野郎ラーメン」コラボイベント開催！ - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5wUFJYQWxORzN3cTFENm9XRGhOcHlqYmVsMkxXeVdzUDVyendfTE9ra3FKdGUyWTRTNy15MVdMam5aZlp2N1BvZk1NM0EyXzIzNnJYRUZYM3pnVVprQU9IalQzVnBSTEtzclE?oc=5",
+      "published": "2026-10-01T07:00:00+00:00",
+      "source": "PR TIMES",
+      "category": "コラボ・イベント・グッズ・予約・江の島・神奈川"
+    },
+    {
+      "title": "劇場アニメ『青春ブタ野郎はディアフレンドの夢を見ない』×中部国際空港のコラボ決定！ 桜島麻衣のARフォトフレームやポストカードの配布企画も - eeo",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE84WkpibzNwU0loYkszMzl1V3hYVWNoZE15cUtTUHNNdF9kTTFUbS00THVOb3A0Qzd4T3VGdWduVnJKV3c4SGFhU2hoZ2xuclJuTXAzWA?oc=5",
+      "published": "2026-10-01T07:00:00+00:00",
+      "source": "eeo",
+      "category": "コラボ・イベント・劇場・上映・特典"
+    },
+    {
+      "title": "『青春ブタ野郎はディアフレンドの夢を見ない』と「野郎ラーメン」がコラボ！ 麻衣たちのグッズなどが10月1日から登場 - eeo",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBLeUljYTlRSGZjNGljaXBYYVM0blJsTUZQQVU5THNNTmk0ZnRJUlJFY19TcU9UTVI2TUpNdV9NTnRMQS1FWXROWnM1Y2YtVXpVU2ZkUA?oc=5",
+      "published": "2026-10-01T07:00:00+00:00",
+      "source": "eeo",
+      "category": "コラボ・イベント・劇場・上映・特典・グッズ・予約"
+    },
+    {
+      "title": "『青春ブタ野郎はディアフレンドの夢を見ない』横浜市コラボキャンペーン×京急でキュン旅開催 - アニメイトタイムズ",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8xdmNTcEI5My1FZzBTYjJ1cWk0V2U2cE5ELU9VOFZSN1ZhZHRSdHNzbWJJR3g1U0RPNVFaN3RISTFqS1RZTWU5M2NyYXYzNU4zYWJhQzRDbUdJT0trMzVlbllZeFJ1TTF1QW9z?oc=5",
+      "published": "2026-10-01T07:00:00+00:00",
+      "source": "アニメイトタイムズ",
+      "category": "コラボ・イベント・江の島・神奈川"
+    },
+    {
+      "title": "「青春ブタ野郎はディアフレンドの夢を見ない」横浜市コラボキャンペーン×京急でキュン旅開催 - 京急電鉄",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBIeTBTZlpiVzQySmtZdU9vRy1XVVBnd1IzUGxUUkZkWW1HbHNKdFNMVUpsMUpMWUxMUi1tWThHVUhzVzl0bWhWTWlLb04tcWdOeWQxejBBMENORVlWTGIxZ1RZZDVyTzNMWm1zbDBNRzQ4T2s3?oc=5",
+      "published": "2026-10-01T07:00:00+00:00",
+      "source": "京急電鉄",
+      "category": "劇場・上映・特典"
+    },
+    {
+      "title": "「青春ブタ野郎はディアフレンドの夢を見ない」横浜市コラボキャンペーン×京急でキュン旅開催 - 北海道新聞デジタル",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5JcmtoRWJad2lfOWV1bmU1X1ZoUl9QZzdYZnNDdHNCLXNtS2lvMmhsYXduS2xSQ0RqSWd6djNadWVraXR6SmdVUVowUTA2Z2RYX2NWblQ3a2pFQQ?oc=5",
+      "published": "2026-10-01T07:00:00+00:00",
+      "source": "北海道新聞デジタル",
+      "category": "江の島・神奈川"
+    },
+    {
+      "title": "「青春ブタ野郎はディアフレンドの夢を見ない」横浜市コラボキャンペーン×京急でキュン旅開催 - 朝日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAzZTU0M0R2NG44Znp2QWp4UVVMZzlYUmNxWGtVQUF3bFYzTW0tTmlkMkd1Z3lrZHltVUNoZXpqR1lxWU9OWXdFU19qVW5fOVVfS0F3NkxfZVpfY2c?oc=5",
+      "published": "2026-10-01T07:00:00+00:00",
+      "source": "朝日新聞",
+      "category": "江の島・神奈川"
+    },
+    {
+      "title": "「青春ブタ野郎はディアフレンドの夢を見ない」横浜市コラボキャンペーン×京急でキュン旅開催 - 北海道新聞デジタル",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbnphRVoxWDN4bHVGUXRvLUllakEtVnUtd21ZTTZmdVJUN1hDTlYwN2ticDgwOFl4ckhtbkFGRzlST1VUZExJQXpNLUw0bVlKaklmQm5XN0tweUlZYUxjTmpLczFaOE5sNHlqa2wxbmM1UmVEcXdQN0ZKcXFWYTZhd0ZITVhJM21H?oc=5",
+      "published": "2026-10-01T06:42:51+00:00",
+      "source": "北海道新聞デジタル",
+      "category": "江の島・神奈川"
+    },
+    {
+      "title": "「青春ブタ野郎はバニーガール先輩の夢を見ない」和風ハロウィンver.の描き下ろしイラストを用いたグッズが登場 - Gamer",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE53UXNDeWpuWVREaVBhMUc1S3E2cTl4S2hVRmp4R3A0aktqUzhFOEVRNGE0QkI2X2o5M0xEQkZFY2VlMjJvZ0FQemFZZjZmdlJRbHBvaFRZOFhTNnNoY0E?oc=5",
+      "published": "2026-10-01T06:42:11+00:00",
+      "source": "Gamer",
+      "category": "グッズ・予約"
+    },
+    {
+      "title": "「青春ブタ野郎はディアフレンドの夢を見ない」横浜市コラボキャンペーン×京急でキュン旅開催 - Digital PR Platform",
+      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBnZnEzbXYyNUh0NTJLVXB3NXdCc0RtcVVWbHFNdWV2OU5fOE9faHpVN25oTWVoTHd2dWNNWWgxSldhaFk?oc=5",
+      "published": "2026-10-01T05:00:00+00:00",
+      "source": "Digital PR Platform",
+      "category": "コラボ・イベント・江の島・神奈川"
+    },
+    {
+      "title": "「青春ブタ野郎はディアフレンドの夢を見ない」横浜市コラボキャンペーン×京急でキュン旅開催 - Excite エキサイト",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8tX3AtYXRENjRyMEtSU1RidjFGVmEzU0hQMHRoNzlWVjFqYWN0dzFFVEt1SFQ5SGZ1SHh0QXVyZzBFdndBM3VCM0RXRkJhZE56Q3VjX25hWTZrRHJyb0E?oc=5",
+      "published": "2026-10-01T05:00:00+00:00",
+      "source": "Excite エキサイト",
+      "category": "江の島・神奈川"
+    },
+    {
+      "title": "写真：「青春ブタ野郎はディアフレンドの夢を見ない」横浜市コラボキャンペーン×京急でキュン旅開催 - 沖縄タイムス社",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBtRVYwYklaVWhZVkZlQWJnXy04LVkzbGhHR2d5ZEZnMDJOdV9WaWF2Ykd1RmpQdzhoQ0ZHOUFNcUJMb3loa19xd3hjLVpRX1JBSUZfYnZlNUdENVBXT3ZzNTJUSWxyZw?oc=5",
+      "published": "2026-10-01T05:00:00+00:00",
+      "source": "沖縄タイムス社",
+      "category": "江の島・神奈川"
+    },
+    {
+      "title": "「青春ブタ野郎はディアフレンドの夢を見ない」×「野郎ラーメン」コラボイベント開催！ - AGARA 紀伊民報",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9uYWtXMmlhVXoxRThnQWl4VzZyajhOeVZVWThSWU1uMHRkWkFLTXYtb2ZJcXJIb0dDSlZFVksxdURHOTMyMHBDWnZaX3RMZnM?oc=5",
+      "published": "2026-10-01T04:00:00+00:00",
+      "source": "AGARA 紀伊民報",
+      "category": "コラボ・イベント・グッズ・予約・江の島・神奈川"
+    },
+    {
+      "title": "写真：「青春ブタ野郎はディアフレンドの夢を見ない」×「野郎ラーメン」コラボイベント開催！ - 沖縄タイムス社",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9jaUduZW1CUUhZbGpRSjdncGNOd2E1eFNBdkctZktWNkJtSFN1aVBCakQ0TzdJZ0V2ZkpOYWdPdG5fNWNmVWlVaDl4MjY3RVRvV2U0SzNpQ0djeTNmMG43Z2xtODRaZw?oc=5",
+      "published": "2026-10-01T04:00:00+00:00",
+      "source": "沖縄タイムス社",
+      "category": "コラボ・イベント"
+    },
+    {
+      "title": "画像・写真 石川界人、「青春ブタ野郎」シリーズ完結作の予告に感涙「何回見ても涙が来る」完結作をキャスト陣が徹底解説(1/1) - WEBザテレビジョン",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9uNUMyampuWWdUWC1XMFlGNFFUOXRsV0t0dkNzNG9EVlVDWDQ3OTVtVkZoVEc3cllrcVVFVkNveXFZa3FSTkJvWGd4dVRrNnM1elNyTXRQRkdIdw?oc=5",
+      "published": "2026-09-30T23:31:33+00:00",
+      "source": "WEBザテレビジョン",
+      "category": "公式・発表・グッズ・予約"
+    },
+    {
+      "title": "伊藤園 × 「青春ブタ野郎はディアフレンドの夢を見ない」 コラボ決定！ | ニュース | アニプレックス オフィシャルサイト - Aniplex",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE05UnFKS3NnOFdlakQ3SDNzUEVUN2VkcVpsME16bEViZi1tby12djQ3NXk0dENBNEVtaEk0dHBYOF9fZ2RzaGJxMmItSzNDUy1WWDVaODZBd3phVU0?oc=5",
+      "published": "2026-09-30T09:20:52+00:00",
+      "source": "Aniplex",
+      "category": "コラボ・イベント"
+    },
+    {
+      "title": "青春ブタ野郎はディアフレンドの夢を見ない＞野郎ラーメンコラボ 青春ブタ野郎ラーメン提供（MANTANWEB） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9mMWRRMm9oaWkxVjlUNFFmNzFxN3VhTFo4clRPTllHZnU0cGI4T2NJZFplckdpMlpBb05MdXI0WjhvV0JHa1VWbTBKVEJzTjlTV25xSWJjWGNEUUZPdWwtWXlSdFB4Z2RNSjctMG9LVEZjZF9Cbk9FZ3NUYWhQWEk?oc=5",
+      "published": "2026-09-30T07:00:00+00:00",
+      "source": "Yahoo!ニュース",
+      "category": "公式・発表"
+    },
+    {
+      "title": "『青ブタ』×野郎ラーメンコラボが本日より開催！ “青春”をイメージした限定メニューやオリジナル特典・グッズが登場 - 電撃オンライン",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0zaEExNmw0bk56WGlJeFpNSDJubk9HckVYT1NfUDRnMEhfSHlzWVdoVkxYOGVpMlgxcHhfZW02dzlqcldZcVFGdWJwV2hra0ZRa2RYZVc1QWVwQQ?oc=5",
+      "published": "2026-09-30T07:00:00+00:00",
+      "source": "電撃オンライン",
+      "category": "公式・発表・コラボ・イベント・グッズ・予約"
+    },
+    {
+      "title": "青春ブタ野郎はディアフレンドの夢を見ない＞野郎ラーメンコラボ 青春ブタ野郎ラーメン提供 (MANTANWEB) - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOMy1qXy05SDBLeXNZeldwWTVQc1JXVlpVSHhITkpiUWdTOGl5MWF5ODI2MmRFNnQwV01IWW81bU5pUjB6akd3RWMyY3dvdGlhcGFhaVZITUhoXy1ranZDbTRNZENOVEltd01RNVVITHVxQmJoRWJGeGtJQmVyeE5kT2xZdFI1Y1FyM05SODFn?oc=5",
+      "published": "2026-09-30T07:00:00+00:00",
+      "source": "Yahoo!ニュース",
+      "category": "公式・発表・コラボ・イベント"
+    },
+    {
+      "title": "青春ブタ野郎はディアフレンドの夢を見ない：野郎ラーメンコラボ 青春ブタ野郎ラーメン提供 - MANTANWEB",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1PdVEyUkRaY0t6YW02NmlUU0pBMDNQZmNKZGxHb0UzaHMyNU11ekhhWXpjbUcxTl9CclJjeEUtbnZ0dXNKVXZ4eXhwbm1lZGFWalpqQUZMNW5LWkZjVmctNXRxWWRfQjFUX1lB?oc=5",
+      "published": "2026-09-30T07:00:00+00:00",
+      "source": "MANTANWEB",
+      "category": "コラボ・イベント・劇場・上映・特典"
+    },
+    {
+      "title": "【10月16日新作映画公開】『青ブタ』シリーズが聖地・江の島でコラボイベント開催！ 水族館などを観光しながら作品世界を満喫できる - 電撃オンライン",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0wS2VxemFjQzFLcDlmVGZYZGd2SktlY3ZNclJGdU9lMldGVVhfcER0d2R2WjhWMGxDcGJQcFBGNGxBUlhYaERWMlo5QjNrQ3l3d0lic1lQdWRsUQ?oc=5",
+      "published": "2026-09-30T07:00:00+00:00",
+      "source": "電撃オンライン",
+      "category": "コラボ・イベント・グッズ・予約・江の島・神奈川"
+    },
+    {
+      "title": "青ブタ × 横浜市 ステッカー配布など 10月8日よりコラボ開催! - コラボカフェ",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1QRHBkanpENnRnUm9xU3N5MXROTmNQeFhfQjFNbXlwRFRTTVFVU2JjRThfREtNanNJemFvREtpRFRhWDZnM3UzZjhTVmRaR1pOMlRObXRmbmJmMXNMNU14UmR6LTRUSGVRRzcyWEw0Z2JxcGtHQ0todTdrRWIwX1k?oc=5",
+      "published": "2026-09-30T07:00:00+00:00",
+      "source": "コラボカフェ",
+      "category": "コラボ・イベント・江の島・神奈川"
+    },
+    {
+      "title": "『青春ブタ野郎』“聖地”江の島・湘南で大型周遊イベント！13人の等身大パネル＆デジタルスタンプラリー開催 - ニコニコニュース",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5MejdxMEZ5d2x3Q3dKNGFjMTNTV25OdExYYlN2VnREbkNjRG51dWVhRTB1TTFjSkxGaTZ4VjRUOVlReDQwUFJCcmh0ejRxNkZVd3ZZZQ?oc=5",
+      "published": "2026-09-30T07:00:00+00:00",
+      "source": "ニコニコニュース",
+      "category": "江の島・神奈川"
+    },
+    {
+      "title": "『青春ブタ野郎』“聖地”江の島・湘南で大型周遊イベント！13人の等身大パネル＆デジタルスタンプラリー開催 - ｄメニューニュース",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNcV9Fek4wWEI5bkZIUXV0V3EwMDFqZDFkaVoyYzg5cm5tYVBVVXNJb2k1SFNrYkhFRjdZSFlfc010ME9mMDRBVU9Jd3N4aDJ5cHFtVHVXUlpaaXFRYkpJaHlpQ3dpZWVQaEFSOXY1ZG1lMTVQcG1TeVQ2WkNfbk4zWjRfNXBCZ0pacC1Qb1o3TlB6Y2V10gGQAUFVX3lxTE9sSl9Sa3dHVld4cDlsMGp6MC16SU1XRTFEQ3Q2RU5ueWVYekVqUWtqZmF0ME5reVFtT2lXbGdBTXYxYnpfZ3ZTWjdzZDZ6RlF6R3BzZHJnZHZ1SDNQcDJxRGMxdWZBb0lpY042OXRYOW1oV1pvS3psdkxYRHAzcWp1UlNsOXFCbmp2aWxPNlBZYg?oc=5",
+      "published": "2026-09-30T07:00:00+00:00",
+      "source": "ｄメニューニュース",
+      "category": "江の島・神奈川"
+    },
+    {
+      "title": "劇場版アニメ『青春ブタ野郎はディアフレンドの夢を見ない』×横浜市 金沢区内でのキャンペーンについて - 横浜市",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE43WEZSdzJoSWs3dkhmcy1hT0xWLW1EQWEycWZIblV3NV9wRXB6SElkcHJxMGRGWUJyTnRqemYzQ3JFOWNObmJfV1MzTG1HVFVBVXV1UUtMSFU3SGNzX0Zubkk4Y3pwMHZHallheGs5alZkQ092ZVl5MQ?oc=5",
+      "published": "2026-09-30T06:30:38+00:00",
+      "source": "横浜市",
+      "category": "劇場・上映・特典・江の島・神奈川"
+    },
+    {
+      "title": "青春ブタ野郎はディアフレンドの夢を見ない - Aniplex",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9hVU1sa0RmVlJkX1J1ajdZVlNuUHJBRTNta0wza19ON182bTQ3UEtuX3ZNOGhNQWJ3TklqUDJubmlGRVhIbEZhaUhNX0ljczRBTER3ZGNmMVVtNS1PUjZxeFJfenlhR2kxbjA1U0tYSUJvYUIxUGV0YTM0QkM2Zw?oc=5",
+      "published": "2026-09-29T23:30:35+00:00",
+      "source": "Aniplex",
+      "category": "コラボ・イベント"
+    },
+    {
+      "title": "江の島・湘南周遊イベント「青春ブタ野郎はたゆたうクラゲの夢を見ない」 - MANTANWEB",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRUVNb093N29QamhaT01taGViakR1VXNLTldNUGVxa3dtQl9fUnBTQXFrSmxXS2FUbjdBT29aTXZnZ3VXWTV1YmRQazRMR2trRmFtblNHSWZqNEs4OXZDZ0JhaDBLZmNRZzBIT29FSU5WbVhWUDlMRk45Z1V1RHJwS25YZDc4Vjl5?oc=5",
+      "published": "2026-09-29T12:29:45+00:00",
+      "source": "MANTANWEB",
+      "category": "江の島・神奈川"
+    },
+    {
+      "title": "青春ブタ野郎はディアフレンドの夢を見ない＞七輪焼肉 安安コラボ 青春ブタ野郎よくばりセット提供 (MANTANWEB) - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSExTYm9zaEZlZDZSUC1TU0ZRVW1MOF9ZY1FoRGJYMmt5XzN1T1c5WEI5RDhLSDhfTjlWM0VyRjhMVExUSHFEcWRGRkZUYk9iSXh2bGx4R003bkpRVnFJSDRmalhxa3BUTWEtRDdBSF92Q0RVZXVVWm1RQklWU0k1UURRN1ZjUnc5dW84M2Fn?oc=5",
+      "published": "2026-09-29T09:22:00+00:00",
+      "source": "Yahoo!ニュース",
+      "category": "公式・発表・コラボ・イベント"
+    },
+    {
+      "title": "青春ブタ野郎はディアフレンドの夢を見ない：七輪焼肉 安安コラボ 青春ブタ野郎よくばりセット提供 - MANTANWEB",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9XMVg5SUpzbzcxdWpESHlUY1NUcmdPcE1Pa21xZWo4b192WUFVU0xmbHpkS0c3a3Nmb3l1MXdMNGZ5UmQ2ZW4wLV9RdWptaHFTSzdqUWRCRjVLbkZyQWVVazJRY3B5eGJFM0Zr?oc=5",
+      "published": "2026-09-29T09:03:17+00:00",
+      "source": "MANTANWEB",
+      "category": "コラボ・イベント・劇場・上映・特典"
+    },
+    {
+      "title": "『青春ブタ野郎』江の島・湘南周遊イベント開催 - アニメイトタイムズ",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1EaGdTRm1saWVvUFFEQVg1UnJCS0twLWxuWVNjOW9IRGdiTXdZMVRSb3FEOUhOT3ZlNEtscVpkdFZRME5oVTVJaHZtQ3FLS05MMU90TlJ4NjlIQXFlaDIxX0FaRTFGLVFQeHM3UDUwMFM?oc=5",
+      "published": "2026-09-29T07:05:54+00:00",
+      "source": "アニメイトタイムズ",
+      "category": "江の島・神奈川"
+    },
+    {
+      "title": "青春ブタ野郎はディアフレンドの夢を見ない＞七輪焼肉 安安コラボ 青春ブタ野郎よくばりセット提供（MANTANWEB） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1hUjg1SFZqZnBqOTJiQ3ppUkhjeTVyYjJDZFJSeTNGU0xjSkZZcmctMk5zSm1pQVJSaXB6WFBsb1p1d2xzZldNZUNNR3htZHI3MzNfUDdjQ3lrTXRSemZLVkZXUG5UckFBMTNsbU02MWxoTklqUXh2bUtTNjE4aE0?oc=5",
+      "published": "2026-09-29T07:00:00+00:00",
+      "source": "Yahoo!ニュース",
+      "category": "公式・発表"
+    },
+    {
+      "title": "『青春ブタ野郎』と“七輪焼肉 安安”がコラボ！ 限定メニュー注文でオリジナルステッカー進呈 - 電撃オンライン",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9SRzhXbGlMa1dnR3JiMkk4MUt1cHpMTFFhckFiQlJ4NnZDZ3I3RmtQWmg4WUZRTWJuWWZlNzlfNGFMb1YyZl9obnlOS2hoN0hFeml0NF9LRGlzQQ?oc=5",
+      "published": "2026-09-29T07:00:00+00:00",
+      "source": "電撃オンライン",
+      "category": "公式・発表・コラボ・イベント"
+    },
+    {
+      "title": "『青ブタ』×郵便局がコラボ。全国77局の郵便局でオリジナルノベルティカード＆限定壁紙をゲットしよう - 電撃オンライン",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBxLWZPMGlCeEhmYmJ4NlNseVlNYS1nX2h2cTNjT0RlTmhmUm5WLU9PRmNmRjBIbHRJZklWWWpzckpmckYxajRkNmtYYlEyejZTX0k3U1lGX2QyQQ?oc=5",
+      "published": "2026-09-29T07:00:00+00:00",
+      "source": "電撃オンライン",
+      "category": "公式・発表・コラボ・イベント・グッズ・予約"
+    },
+    {
+      "title": "「青春ブタ野郎」シリーズ完結作を石川界人らキャストが徹底解説！本予告第2弾＆キービジュアルも初解禁 - ABEMA TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE43cmh4aF8yNU9WNmxWWGNUY1VLWlNXSDhXaTF2VU9SZkRGTnlSYkdxV3NjTXh3VGdUczVVM1VJVjd3OHpUYWVXWl9MY2hHSFByemJQS2FVbk9zS2cwQkE?oc=5",
+      "published": "2026-09-29T07:00:00+00:00",
+      "source": "ABEMA TIMES",
+      "category": "公式・発表"
+    },
+    {
+      "title": "【写真・画像】「青春ブタ野郎」シリーズ完結作を石川界人らキャストが徹底解説！本予告第2弾＆キービジュアルも初解禁 1枚目 - ABEMA TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5UbmhCM2VGTHJ4YkpuUFRrYWcxR2ExZnl6U2xxSVRZakMxckVEVGVCdEczNzJxRnQ5SGZxSXFNSW5GSzNjdUZ6c09BaEpUbU9fRkZwQ2ZxSjJtUQ?oc=5",
+      "published": "2026-09-29T07:00:00+00:00",
+      "source": "ABEMA TIMES",
+      "category": "公式・発表"
+    },
+    {
+      "title": "『青ブタ』シリーズ完結作をキャスト陣が徹底解説！石川界人「その成長が結実するのがこの映画」／水瀬いのり「走れ！咲太！走 - ニコニコニュース",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBqNXdXLUs2M1hnSmNVZG83ekNrN0VON1gtY2NjR0hwOERlSWgySHA3Y1JGaVQ0cUpMekpfUDZJMHZFTkVqeGxEVm9ObFR1VjlKcjZXUg?oc=5",
+      "published": "2026-09-29T07:00:00+00:00",
+      "source": "ニコニコニュース",
+      "category": "公式・発表"
+    },
+    {
+      "title": "江の島・湘南周遊イベント「青春ブタ野郎はたゆたうクラゲの夢を見ない」 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1RUm5JR2xSTWFJd3FpMFBENnJkVFJIc1ZScGdWalA3eFhaZ3pvUlIzaUxXd19PXzI0UzY1Ulh4bTZqTXpfMy03XzVVX3ZXN2YtYUR5Wi0wMko1bkZDVGNoOTB4OUxZRjBrMVE?oc=5",
+      "published": "2026-09-29T07:00:00+00:00",
+      "source": "PR TIMES",
+      "category": "コラボ・イベント・劇場・上映・特典・江の島・神奈川"
+    },
+    {
+      "title": "『青春ブタ野郎』江の島・湘南周遊イベント開催 - アニメイトタイムズ",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5KREdkakJvR0ZVa216THJ5bGxlN2ZPZV9lYXhST0NMS0FrZWI0QUpyam50cEVnZTlzN1RZYlRBNWtGMlV5djVadUxqbUNmR2JkaGNxeUtBNWZBY1o4czhoeU1YdFNPd0dZRTc0?oc=5",
+      "published": "2026-09-29T07:00:00+00:00",
+      "source": "アニメイトタイムズ",
+      "category": "コラボ・イベント・江の島・神奈川"
+    },
+    {
+      "title": "【藤沢市】新江ノ島水族館×青春ブタ野郎が江の島・湘南でコラボ！聖地巡礼スタンプラリー開催 10月16日～11月30日 - 湘南人",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1jYVZ4UVJPNGV2aHRpajlXQWpBUzlRYkZ1c3BoWExEQlY5dkxjaHl4Y0tVLXJNXzNtUHhUZThMUEJWdlFkSkoxZW9FWTU1MElfT2s2aTRqTUw4VDkxVC1WaUdlVUNzc2g3Y2xlZXRPNA?oc=5",
+      "published": "2026-09-29T07:00:00+00:00",
+      "source": "湘南人",
+      "category": "コラボ・イベント・江の島・神奈川"
+    },
+    {
+      "title": "江ノ島電鉄 青ブタ記念入場券 発売（2026年10月9日～） - Tetsudo.com（鉄道コム）",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBIVFp6SndnS2xzSkw4TEI3eURCMUptMnpRNlV2ZjRBbHVYUUZWUGhCdTA0U2dLQk9sZERsSkFsM1JURU5QcmZKM1hkMFU?oc=5",
+      "published": "2026-09-29T07:00:00+00:00",
+      "source": "Tetsudo.com（鉄道コム）",
+      "category": "江の島・神奈川"
+    },
+    {
+      "title": "江の島・湘南周遊イベント「青春ブタ野郎はたゆたうクラゲの夢を見ない」 - Infoseek",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9Ea1gwTkRDeHpvbTc1d0xob0tyR0FsbTdCVmpST0U0aXFNRFJBYl9HbS1YakZib0hXMlkyWGgtSlA0OVBZTlJ0aEhaMHBFYUFubXlNaXFsTEZWVjdJSl85LUczZW5EOGpvNXlyVEFGRHdrdw?oc=5",
+      "published": "2026-09-29T05:45:24+00:00",
+      "source": "Infoseek",
+      "category": "江の島・神奈川"
+    },
+    {
+      "title": "劇場アニメ『青春ブタ野郎はディアフレンドの夢を見ない』のコラボイベント「青春ブタ野郎酒場」が全国の3・6・5酒場にて開催決定 - 千葉テレビ放送株式会社",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5EWjJRb19YY3BZa3JFdF9LcFpUdzVFTEdSTEg0eVkwVXYzUzc4YVppWEJfNEVLbzBDQjZ0ekR3bDV0ZWw2WkdUVjg1MW1zNmFKNU5IOVUwV2xLVXVVcWlZ?oc=5",
+      "published": "2026-09-29T02:01:21+00:00",
+      "source": "千葉テレビ放送株式会社",
+      "category": "コラボ・イベント"
+    },
+    {
+      "title": "青春ブタ野郎はバニーガール先輩の夢を見ない - ANIPLEX",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1VMWx1eUpSdGpKeFhPTnluUzBaTUZRUFNQV18ybDg2OUU3VlhxcDZZUjhMQ1o2alBUaTlTZjdyNUoxVUxVQno2YUhsVDZIRFVzWnNfWmd6cHBlbkM2ZWtVeEhzMlJNNExZUVp2VG9GNA?oc=5",
+      "published": "2026-09-28T18:35:13+00:00",
+      "source": "ANIPLEX",
+      "category": "公式・発表"
+    },
+    {
+      "title": "青春ブタ野郎：完結記念 新宿で「公開前夜祭ライブ」 北澤ゆうほ、大貫みく、Conton Candy登場 - MANTANWEB",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1pM1RDOFR4RDJsYWtpTHFOT1RwV2tvSmJtY1JsUHBXLUUtQkxhYUlvSjl4dUp3bkpzRmhXQkFRc05YdUp0NWFFZ0l5LWR3SURiYVJPcXZKR1FscnVyZGxJVkEyQXBXRTQ0TUh3?oc=5",
+      "published": "2026-09-28T09:03:10+00:00",
+      "source": "MANTANWEB",
+      "category": "コラボ・イベント・劇場・上映・特典"
+    },
+    {
+      "title": "「青春ブタ野郎はディアフレンドの夢を見ない」郵便局でのキャンペーンを開催！ | ニュース | アニプレックス オフィシャルサイト - Aniplex",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE00ald4THV1NzhwcDd0ZTNzWVYxbnlDejdhWXpDOFlwWjFjOFhnWDJzeWh3MDV2RTdiZzFKU0xrM1dZdTZIaTVSNzdIdVlRN2tXQl9kTmdZOTljNkk?oc=5",
+      "published": "2026-09-28T08:00:49+00:00",
+      "source": "Aniplex",
+      "category": "入荷・再入荷"
+    },
+    {
+      "title": "＜青春ブタ野郎はディアフレンドの夢を見ない＞郵便局コラボ オリジナルノベルティーカード配布 桜島麻衣のポスターも - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ma01rTTlTRnJ5R2lFZTcxWE03UV8yejFuaGxXQjFlU2YzSk9NcWN5dXFlT0hOMlBXaVpNZ211VkxzNy1uSUh4aVltbUlqMlhHU1JBVS14Y19sdVZ5WnBhRUd0LTZoOHVkSVZ6WkdELWVEX0p3WVluSGJMS3lrUWM?oc=5",
+      "published": "2026-09-28T07:00:00+00:00",
+      "source": "Yahoo!ニュース",
+      "category": "公式・発表"
+    },
+    {
+      "title": "劇場アニメ『⻘春ブタ野郎はディアフレンドの夢を⾒ない』スペシャルステージのオフィシャルレポートが公開！ - eeo",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBVX29GM3FpTTJFYkRBV2RUUmlzMEl1dUxOSGZIal9RNkxlNWpHRFhobzhRSHNYbk5lYjZmNVVaNmtzU1pPaDgxaVhwTElLLVU2dVlYSA?oc=5",
+      "published": "2026-09-28T07:00:00+00:00",
+      "source": "eeo",
+      "category": "公式・発表・コラボ・イベント"
+    },
+    {
+      "title": "青春ブタ野郎＞完結記念 新宿で「公開前夜祭ライブ」 北澤ゆうほ、大貫みく、Conton Candy登場（MANTANWEB） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8xdUFSVXludGFvdVZic1BNbWhEVUh0LUtnbDhtYUtsSV9zU2RMYmM1b0NSRHNlWEVTa2R2ZTQxUzVmdk9KMlM1MkMxRXpfR0hEZXNZYjloUVJWdFJWRnJoYXVBR3lhV0w3NWcyRnlBaEozOWdsZ3NNSnFvaHJHa1U?oc=5",
+      "published": "2026-09-28T07:00:00+00:00",
+      "source": "Yahoo!ニュース",
+      "category": "公式・発表"
+    },
+    {
+      "title": "＜青春ブタ野郎はディアフレンドの夢を見ない＞郵便局コラボ オリジナルノベルティーカード配布 桜島麻衣のポスターも - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWTlxdnozVUFfUHRXejZGdVR6NkFiSWZaUVQ0ZmhqM1NLdTlkQUo1SkZvdDNfaklhLU9GYjJabVlSOHJYODE5SUx0UnJ4TTdFUjVUdmx5ZjNISEM4X1ZMbWgzMjJoaDZodUNhYkhFRHdNOE96TFhGZy1peGlORE9acC1BQk5ZTDJXc0g1Y2J3?oc=5",
+      "published": "2026-09-28T07:00:00+00:00",
+      "source": "Yahoo!ニュース",
+      "category": "公式・発表・コラボ・イベント"
+    },
+    {
+      "title": "青春ブタ野郎＞完結記念 新宿で「公開前夜祭ライブ」 北澤ゆうほ、大貫みく、Conton Candy登場 (MANTANWEB) - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNeHZWWVl4d0xseWVTd0pWd1lJdWVGZ3NKUDZOdjVoeUhrVTNfeWU0YmhITjEtcXowLWQ0eDViOWlRdTVTSVgxZ2txZW1rNXAza0JONm9vQWxWSUNWTlpUM1dFLURPSml6MGV5b09qdVhWTUx1WG1UMWVfRVgyekxvUzZDd1pnZDM2OHNFVmhn?oc=5",
+      "published": "2026-09-28T07:00:00+00:00",
+      "source": "Yahoo!ニュース",
+      "category": "公式・発表"
+    },
+    {
+      "title": "青春ブタ野郎はディアフレンドの夢を見ない：郵便局コラボ オリジナルノベルティーカード配布 桜島麻衣のポスターも - MANTANWEB",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0yRHBQUE1kNzBxanFUcWhCRXRtLVFDNmN4WnhEOWhBc2p3MWdqd3BNMDd3anFJVTV6V1VmaWliaUFMRU9ic0t1V1prcG1DWllMRDZrNHpxN1hRaUQ2RWJwTkV6Z3I3d25zQWRB?oc=5",
+      "published": "2026-09-28T07:00:00+00:00",
+      "source": "MANTANWEB",
+      "category": "コラボ・イベント"
+    },
+    {
+      "title": "全6種のステッカーを横浜で集める！『青春ブタ野郎はディアフレンドの夢を見ない×横浜市』コラボキャンペーン - Dtimes",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9fLTJFYldUM1VoYTIzQmRpQVBTTnpOZkQxLXo0QlpGbm5yVUZoeHM3bXM4cVZfZktpLWdTSzhBVmhvZlpVSXc?oc=5",
+      "published": "2026-09-28T07:00:00+00:00",
+      "source": "Dtimes",
+      "category": "江の島・神奈川"
     }
-  ]
+  ],
+  "errors": []
 }
