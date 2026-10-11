@@ -25,4 +25,35 @@ async function main(){
  function render(){let q=document.querySelector("#q").value.toLowerCase().trim();let rows=(data.items||[]).filter(x=>!q||[x.title,x.source,x.category].join(" ").toLowerCase().includes(q));document.querySelector("#news").innerHTML=rows.length?rows.map(x=>`<article><span class="tag">${esc(x.category)}</span><h2><a target="_blank" rel="noopener" href="${esc(x.url)}">${esc(x.title)}</a></h2><small>${esc(x.source)}　${esc((x.published||"").replace("T"," ").slice(0,16))}</small></article>`).join(""):"該当記事がないよ。別のキーワードも試してね。"}
  document.querySelector("#q").addEventListener("input",render);render()
 }main();
-</script></body></html>
+</script></body></html><script>
+(async function(){
+  try {
+    const res = await fetch("schedule.json?" + Date.now());
+    const data = await res.json();
+    const items = (data.items || []).slice().sort((a,b) =>
+      (a.date || a.start_date || "9999-12-31")
+        .localeCompare(b.date || b.start_date || "9999-12-31")
+    );
+    const box = document.createElement("section");
+    box.style.cssText = "margin:16px;padding:16px;background:white;border:1px solid #f0cde5;border-radius:14px;color:#382d34";
+    box.innerHTML = '<h2>📅 イベント・グッズ日程</h2>';
+    if (!items.length) {
+      box.innerHTML += '<p>日程はまだ登録されていないよ。次は予定を追加しよう！</p>';
+    } else {
+      items.forEach(item => {
+        const card = document.createElement("article");
+        card.style.cssText = "padding:12px 0;border-bottom:1px solid #f0dce8";
+        const date = item.date || item.start_date || "";
+        const end = item.end_date ? "〜" + item.end_date : "";
+        card.innerHTML = "<strong></strong><p></p>";
+        card.querySelector("strong").textContent = date + end + "　" + (item.type || "予定");
+        card.querySelector("p").textContent = item.title || "名称未設定";
+        box.appendChild(card);
+      });
+    }
+    document.body.appendChild(box);
+  } catch(e) {
+    console.log("日程データを読み込めませんでした", e);
+  }
+})();
+</script>
