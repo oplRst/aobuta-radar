@@ -1,18 +1,42 @@
 <!doctype html>
-<html lang="ja"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
 <title>青ブタ情報レーダー</title>
 <style>
 body{margin:0;background:#fff8fb;color:#382d34;font-family:-apple-system,BlinkMacSystemFont,"Hiragino Kaku Gothic ProN",Meiryo,sans-serif}
-header{padding:24px 18px;background:linear-gradient(135deg,#f7d9e7,#fff0f6)}h1{margin:0 0 8px;font-size:1.5rem}
-main{max-width:900px;margin:auto;padding:16px}nav{display:flex;flex-wrap:wrap;gap:8px;margin-bottom:16px}
+header{padding:24px 18px;background:linear-gradient(135deg,#f7d9e7,#fff0f6)}
+h1{margin:0 0 8px;font-size:1.5rem}
+main{max-width:900px;margin:auto;padding:16px}
+nav{display:flex;flex-wrap:wrap;gap:8px;margin-bottom:16px}
 nav a{border:1px solid #ebcbd9;border-radius:999px;padding:9px 12px;background:white;color:#643d51;text-decoration:none;font-size:.9rem}
 input{width:100%;box-sizing:border-box;padding:12px;border:1px solid #e6cbd8;border-radius:12px;font-size:1rem}
-.meta,small{color:#786d75;font-size:.83rem}.meta{margin:12px 0}
+.meta,small{color:#786d75;font-size:.83rem}
+.meta{margin:12px 0}
 article{background:white;border:1px solid #f0dce5;border-radius:14px;padding:14px;margin:10px 0}
 .tag{font-size:.75rem;color:#8b4264;background:#ffedf5;padding:4px 8px;border-radius:999px}
-h2{font-size:1rem;line-height:1.5;margin:10px 0}article a{color:#493342;text-decoration:none}footer{text-align:center;padding:20px;color:#786d75;font-size:.8rem}
-</style></head><body><header><h1>🐷 青ブタ情報レーダー</h1>公式発表・コラボ・イベント・劇場・グッズ情報</header>
-<main><nav id="links"></nav><input id="q" placeholder="キーワードで絞り込み（例：入荷、江の島）"><div id="meta" class="meta">読み込み中…</div><section id="news"></section></main>
+h2{font-size:1rem;line-height:1.5;margin:10px 0}
+article a{color:#493342;text-decoration:none}
+footer{text-align:center;padding:20px;color:#786d75;font-size:.8rem}
+.date{color:#8b4264;font-weight:600}
+</style>
+</head>
+<body>
+<header>
+<h1>🐷 青ブタ情報レーダー</h1>
+公式発表・コラボ・イベント・劇場・グッズ情報
+</header>
+<main>
+<nav id="links"></nav>
+<input id="q" placeholder="ニュースを検索（例：入荷、江の島）">
+<div id="meta" class="meta">読み込み中…</div>
+<section id="news"></section>
+<hr style="border:0;border-top:1px solid #ebcbd9;margin:28px 0">
+<h2>📅 イベント・グッズ日程</h2>
+<p class="meta">開催日・発売日・予約締切が近い順に表示するよ。</p>
+<section id="schedule"><p>日程を読み込み中…</p></section>
+</main>
 <footer>個人用試作。情報・在庫・開催状況はリンク先で確認してください。</footer>
 <script>
 const esc=s=>String(s??"").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
@@ -22,38 +46,33 @@ async function main(){
  document.querySelector("#links").innerHTML=(cfg.links||[]).map(x=>`<a target="_blank" rel="noopener" href="${esc(x.url)}">${esc(x.label)}</a>`).join("");
  try{data=await(await fetch("data/news.json?x="+Date.now())).json()}catch(e){}
  document.querySelector("#meta").textContent=data.updated_at?`最終更新（UTC） ${data.updated_at} ／ ${data.count||0}件`:"まだニュースデータがありません。GitHub Actionsを実行してください。";
- function render(){let q=document.querySelector("#q").value.toLowerCase().trim();let rows=(data.items||[]).filter(x=>!q||[x.title,x.source,x.category].join(" ").toLowerCase().includes(q));document.querySelector("#news").innerHTML=rows.length?rows.map(x=>`<article><span class="tag">${esc(x.category)}</span><h2><a target="_blank" rel="noopener" href="${esc(x.url)}">${esc(x.title)}</a></h2><small>${esc(x.source)}　${esc((x.published||"").replace("T"," ").slice(0,16))}</small></article>`).join(""):"該当記事がないよ。別のキーワードも試してね。"}
- document.querySelector("#q").addEventListener("input",render);render()
-}main();
-</script></body></html><script>
-(async function(){
-  try {
-    const res = await fetch("schedule.json?" + Date.now());
-    const data = await res.json();
-    const items = (data.items || []).slice().sort((a,b) =>
-      (a.date || a.start_date || "9999-12-31")
-        .localeCompare(b.date || b.start_date || "9999-12-31")
-    );
-    const box = document.createElement("section");
-    box.style.cssText = "margin:16px;padding:16px;background:white;border:1px solid #f0cde5;border-radius:14px;color:#382d34";
-    box.innerHTML = '<h2>📅 イベント・グッズ日程</h2>';
-    if (!items.length) {
-      box.innerHTML += '<p>日程はまだ登録されていないよ。次は予定を追加しよう！</p>';
-    } else {
-      items.forEach(item => {
-        const card = document.createElement("article");
-        card.style.cssText = "padding:12px 0;border-bottom:1px solid #f0dce8";
-        const date = item.date || item.start_date || "";
-        const end = item.end_date ? "〜" + item.end_date : "";
-        card.innerHTML = "<strong></strong><p></p>";
-        card.querySelector("strong").textContent = date + end + "　" + (item.type || "予定");
-        card.querySelector("p").textContent = item.title || "名称未設定";
-        box.appendChild(card);
-      });
-    }
-    document.body.appendChild(box);
-  } catch(e) {
-    console.log("日程データを読み込めませんでした", e);
-  }
-})();
+ function render(){
+  let q=document.querySelector("#q").value.toLowerCase().trim();
+  let rows=(data.items||[]).filter(x=>!q||[x.title,x.source,x.category].join(" ").toLowerCase().includes(q));
+  document.querySelector("#news").innerHTML=rows.length?rows.map(x=>`<article><span class="tag">${esc(x.category)}</span><h2><a target="_blank" rel="noopener" href="${esc(x.url)}">${esc(x.title)}</a></h2><small>${esc(x.source)}　${esc((x.published||"").replace("T"," ").slice(0,16))}</small></article>`).join(""):"該当記事がないよ。別のキーワードも試してね。";
+ }
+ document.querySelector("#q").addEventListener("input",render);
+ render();
+ try{
+  const response=await fetch("schedule.json?x="+Date.now());
+  if(!response.ok) throw new Error("schedule.json");
+  const schedule=await response.json();
+  const items=(schedule.items||[]).slice().sort((a,b)=>(a.date||a.start_date||a.deadline||a.release_date||"9999-12-31").localeCompare(b.date||b.start_date||b.deadline||b.release_date||"9999-12-31"));
+  const area=document.querySelector("#schedule");
+  if(!items.length){area.innerHTML="<p>日程はまだ登録されていないよ。</p>";return;}
+  area.innerHTML=items.map(item=>{
+   const date=item.date||item.start_date||item.deadline||item.release_date||"日付未設定";
+   const end=item.end_date?" 〜 "+item.end_date:"";
+   const title=esc(item.title||"名称未設定");
+   const type=esc(item.type||"予定");
+   const url=item.url?`<p><a target="_blank" rel="noopener" href="${esc(item.url)}">公式情報を確認 ↗</a></p>`:"";
+   return `<article><span class="tag">${type}</span><p class="date">${esc(date)}${esc(end)}</p><h2>${title}</h2>${url}</article>`;
+  }).join("");
+ }catch(e){
+  document.querySelector("#schedule").innerHTML="<p>日程データを読み込めなかったよ。schedule.jsonを確認してね。</p>";
+ }
+}
+main();
 </script>
+</body>
+</html>
