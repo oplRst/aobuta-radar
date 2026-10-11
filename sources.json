@@ -1,0 +1,46 @@
+{
+  "queries": [
+    {
+      "label": "公式・発表",
+      "query": "\"青春ブタ野郎\" (公式 OR 発表 OR 新情報)"
+    },
+    {
+      "label": "コラボ・イベント",
+      "query": "\"青春ブタ野郎\" (コラボ OR イベント OR 開催)"
+    },
+    {
+      "label": "劇場・上映・特典",
+      "query": "\"青春ブタ野郎\" (劇場 OR 映画館 OR 上映 OR 入場者特典)"
+    },
+    {
+      "label": "グッズ・予約",
+      "query": "\"青春ブタ野郎\" (グッズ OR 新商品 OR 予約 OR 発売)"
+    },
+    {
+      "label": "入荷・再入荷",
+      "query": "\"青春ブタ野郎\" (入荷 OR 再入荷 OR 在庫)"
+    },
+    {
+      "label": "江の島・神奈川",
+      "query": "\"青春ブタ野郎\" (江ノ島 OR 江の島 OR 藤沢 OR 横浜)"
+    }
+  ],
+  "links": [
+    {
+      "label": "青ブタ公式サイト",
+      "url": "https://ao-buta.com/"
+    },
+    {
+      "label": "X検索：公式・発表・コラボ",
+      "url": "https://x.com/search?q=%22%E9%9D%92%E6%98%A5%E3%83%96%E3%82%BF%E9%87%8E%E9%83%8E%22%20(%E5%85%AC%E5%BC%8F%20OR%20%E7%99%BA%E8%A1%A8%20OR%20%E3%82%B3%E3%83%A9%E3%83%9C)&src=typed_query&f=live"
+    },
+    {
+      "label": "X検索：入荷・再入荷",
+      "url": "https://x.com/search?q=%22%E9%9D%92%E6%98%A5%E3%83%96%E3%82%BF%E9%87%8E%E9%83%8E%22%20(%E5%85%A5%E8%8D%B7%20OR%20%E5%86%8D%E5%85%A5%E8%8D%B7%20OR%20%E5%9C%A8%E5%BA%AB)&src=typed_query&f=live"
+    },
+    {
+      "label": "X検索：現地レポ・配布",
+      "url": "https://x.com/search?q=%22%E9%9D%92%E6%98%A5%E3%83%96%E3%82%BF%E9%87%8E%E9%83%8E%22%20(%E8%A1%8C%E3%81%A3%E3%81%A6%E3%81%8D%E3%81%9F%20OR%20%E7%8F%BE%E5%9C%B0%20OR%20%E9%85%8D%E5%B8%83)&src=typed_query&f=live"
+    }
+  ]
+}
