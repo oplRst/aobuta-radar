@@ -76,12 +76,27 @@ for group in config.get("queries", []):
 
 dedup = {}
 for item in items:
-    if item["url"] not in dedup: dedup[item["url"]] = item
-    elif item["category"] not in dedup[item["url"]]["category"]:
-        dedup[item["url"]]["category"] += "・" + item["category"]
-items = sorted(dedup.values(), key=lambda x:x.get("published",""), reverse=True)[:150]
-payload = {"updated_at":datetime.now(timezone.utc).isoformat(),"count":len(items),"items":items,"errors":errors}
-os.makedirs(os.path.join(ROOT,"data"),exist_ok=True)
-with open(os.path.join(ROOT,"data","news.json"),"w",encoding="utf-8") as f:
-    json.dump(payload,f,ensure_ascii=False,indent=2)
+    key = item["url"]
+    if key not in dedup:
+        dedup[key] = item
+    else:
+        old = dedup[key]
+        if item["category"] not in old["category"]:
+            old["category"] += "・" + item["category"]
+
+title_dedup = {}
+for item in dedup.values():
+    key = item["title"].strip()
+    if key not in title_dedup:
+        title_dedup[key] = item
+    else:
+        old = title_dedup[key]
+        if item["category"] not in old["category"]:
+            old["category"] += "・" + item["category"]
+
+items = sorted(
+    title_dedup.values(),
+    key=lambda x: x.get("published", ""),
+    reverse=True
+)[:150]
 print("保存:",len(items),"件 / エラー:",len(errors),"件")
