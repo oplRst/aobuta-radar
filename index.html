@@ -57,16 +57,26 @@ async function main(){
   const response=await fetch("schedule.json?x="+Date.now());
   if(!response.ok) throw new Error("schedule.json");
   const schedule=await response.json();
-  const items=(schedule.items||[]).slice().sort((a,b)=>(a.date||a.start_date||a.deadline||a.release_date||"9999-12-31").localeCompare(b.date||b.start_date||b.deadline||b.release_date||"9999-12-31"));
+    const items=(schedule.items||[]).slice().sort((a,b)=>{
+   const da=a.deadline||a.date||a.start_date||a.release_date||"9999-12-31";
+   const db=b.deadline||b.date||b.start_date||b.release_date||"9999-12-31";
+   return da.localeCompare(db);
+  });
   const area=document.querySelector("#schedule");
   if(!items.length){area.innerHTML="<p>日程はまだ登録されていないよ。</p>";return;}
+  const today=new Date();
+  today.setHours(0,0,0,0);
   area.innerHTML=items.map(item=>{
-   const date=item.date||item.start_date||item.deadline||item.release_date||"日付未設定";
+   const date=item.deadline||item.date||item.start_date||item.release_date||"";
    const end=item.end_date?" 〜 "+item.end_date:"";
    const title=esc(item.title||"名称未設定");
    const type=esc(item.type||"予定");
    const url=item.url?`<p><a target="_blank" rel="noopener" href="${esc(item.url)}">公式情報を確認 ↗</a></p>`:"";
-   return `<article><span class="tag">${type}</span><p class="date">${esc(date)}${esc(end)}</p><h2>${title}</h2>${url}</article>`;
+   const days=date?Math.ceil((new Date(date+"T00:00:00")-today)/86400000):9999;
+   const urgent=days>=0&&days<=7;
+   const label=urgent?`<p style="color:#c02668;font-weight:bold">⚠️ ${days===0?"今日が期限！":"あと"+days+"日！"}</p>`:"";
+   const expired=days<0?'<p style="color:#888">期限を過ぎています</p>':"";
+   return `<article style="${urgent?"border:2px solid #e78ab4;background:#fff0f6":""}"><span class="tag">${type}</span><p class="date">${esc(date||"日付未設定")}${esc(end)}</p>${label}${expired}<h2>${title}</h2>${url}</article>`;
   }).join("");
  }catch(e){
   document.querySelector("#schedule").innerHTML="<p>日程データを読み込めなかったよ。schedule.jsonを確認してね。</p>";
