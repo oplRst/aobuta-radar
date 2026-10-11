@@ -8,6 +8,15 @@ with open(os.path.join(ROOT, "sources.json"), encoding="utf-8") as f:
 
 def clean(value):
     return re.sub(r"\\s+", " ", value or "").strip()
+    AOBUTA_TERMS = [
+    "青春ブタ野郎", "青ブタ", "桜島麻衣", "梓川咲太",
+    "古賀朋絵", "双葉理央", "豊浜のどか", "梓川花楓",
+    "牧之原翔子", "広川卯月", "赤城郁実", "姫路紗良",
+    "美東美織", "ディアフレンド", "たゆたうクラゲ"
+]
+
+def is_aobuta_related(title):
+    return any(term in title for term in AOBUTA_TERMS)
 
 items, errors = [], []
 for group in config.get("queries", []):
@@ -19,6 +28,7 @@ for group in config.get("queries", []):
         for node in root.findall(".//item"):
             title, link = clean(node.findtext("title")), clean(node.findtext("link"))
             if not title or not link: continue
+            if not is_aobuta_related(title): continue   
             pub = clean(node.findtext("pubDate"))
             try: pub = parsedate_to_datetime(pub).isoformat() if pub else ""
             except Exception: pass
